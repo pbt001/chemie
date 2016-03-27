@@ -5,8 +5,6 @@ of small particles, or atoms, of the Periodic Table's elements.
 
 \ce{N} mononitrogen  
 \ce{N2} dinitrogen  
-\ce{O2} dioxygen or oxygen (ist ein Diradikal)
-\ce{O3} trioxygen or ozone  
 
 Sulfide(2^-^) \ce{S^2-}  
 Sulfat \ce{SO4^2-}  
@@ -26,7 +24,15 @@ ions with a free pair of electrons or at
 least one pi bond can act as nucleophiles. Because
 nucleophiles donate electrons, they are by definition Lewis bases.
 
-In chemistry, an electrophile (literally electron-friend) is a reagent
+Nucleophilicity may be defined as the ability of an atom to donate an electron pair to an electrophile
+(an electron deficient species) in a chemical reaction. Nucleophilicity is similar to basicity in that it
+is a measure of the ability of an atom to function as an electron donor. It differs however in that
+basicity refers to electron donation to a proton (or other acid) in a reversible or equilibrium reaction
+and is measured by association constants such as pKa. Nucleophilicity refers to electron donation,
+usually to an electrophilic carbon atom, in a non-equilibrium reaction and is measured by rate
+constants.
+
+In chemistry, an **electrophile** (literally electron-friend) is a reagent
 attracted to electrons. In general, electrophiles are positively charged
 species that are attracted to an electron rich centre.
 It participates in a chemical reaction by accepting an
@@ -44,10 +50,31 @@ The **ground state** ist the state with the lowest energy.
 
 **atomic mass**, die Masse im *ground state*
 
-Mehr **elektronegative** Elemente wollen mehr Elektronen.
+**Elektronegativere** Elemente wollen mehr Elektronen.
 
 A **covalent bond** is a chemical bond that involves
 the sharing of electron pairs between atoms.
+
+Kovalente Bindungen können, je nach Elektronegativität
+der Bindungspartner, polarisiert sein, also als polare
+Atombindungen vorliegen. Ist eines der Elemente
+elektronegativer als sein Bindungspartner, so halten sich
+die Elektronen häufiger in seiner Nähe auf.
+
+positiver induktiver Effekt:
+
+t-Butylgruppe –\ce{C(CH3)3}  
+i-Propylgruppe –\ce{CH(CH3)2}  
+Alkylrest –\ce{R}  
+
+negativer induktiver Effekt:
+
+Sauerstoff in der Carbonylgruppe –\ce{C=O}  
+Hydroxygruppe –\ce{OH}  
+Nitrogruppe –\ce{NO2}  
+Aminogruppe –\ce{NH2}  
+Carboxygruppe –\ce{COOH}  
+Cyanogruppe –\ce{CN}  
 
 The increase of oxidation state of an atom through
 a chemical reaction is known as **oxidation**;
@@ -64,12 +91,79 @@ Oxidation:
 Elektronen abziehen.
 More C-O or C-C bonds.
 
+In chemistry, heterolysis or heterolytic fission (from Greek
+ἕτερος, heteros, "different," and λύσις, lusis,
+"loosening") involves cleavage of a chemical bond in a
+process where both of the electrons involved in the original
+bond remain with only one of the fragment species.[1]
+During heterolytic bond cleavage in a neutral molecule, a
+cation and an anion will be generated. Typically, the more
+electronegative fragment will retain the pair of electrons.
+
+In chemistry, homolysis (from Greek ὅμοιος, homoios,
+"equal," and λύσις, lusis, "loosening") or homolytic
+fission is chemical bond dissociation of a molecule by a
+process where each of the fragments retains one of the
+originally-bonded electrons. During homolytic fission of a
+neutral molecule with an even number of electrons, two free
+radicals will be generated.
+
 A **chiral** molecule lacks an improper rotation axes.
 
 In materials science, **polymorphism** is the ability of a solid material to
 exist in more than one form or crystal structure.
 
-# Fluorine
+# Macroscopic concepts
+
+Thermodynamic equilibrium.
+Phase transition.
+Solubility.
+Reactivity.
+
+# Elemente
+
+## Oxygen
+
+\ce{O2} dioxygen or oxygen (ist ein Diradikal)  
+\ce{O3} trioxygen or ozone  
+
+Forms compounds with every element except He, Ne, and Ar.
+
+Hydrogen peroxide, \ce{H2O2}, synthesis is achieved with anthraquinone.
+
+An oxide is any compound with an oxygen in the 2– oxidation state;
+there are three types:
+
+basic oxides are formed with metals and give basic solutions when dissolved in
+water
+
+acidic oxides are formed with p-block elements and give acid solutions when
+dissolved in water
+
+amphoteric oxides can act as either acids or bases
+
+## Carbon
+
+In order to form four single bonds, carbon utilizes the four
+electrons in its valence shell (2s^2^ , 2p^2^ ).
+It does this through a processs of hybridization which utilizes outer s orbital (the 2s) and 3 p orbitals
+(2sp^x,y,z^ ). This type of hybridization is therefore known as sp^3^.
+
+## Sulfur
+
+Sulfur has many allotropes
+
+There are seven different sulfur fluorides,
+but for the other halogens only S 2 X 2 and SX 2 complexes are known.
+
+# Halogens
+
+Interhalogens:
+Diatomics: ClF, ICl, IBr.
+Higher species follow the formula XY n where X is the heavier halogen, Y is the
+lighter (i.e., more electronegative) halogen and n = 3, 5, or 7
+
+## Fluorine
 
 \ce{HF} is extremely toxic.
 
@@ -165,8 +259,19 @@ microstate:
 A specific valence electron configuration for
 a multielectron free ion.
 
+$M_L$ is the total orbital angular momentum of a microstate.
+$M_S$ is the total spin angular momentum of a microstate
+
 Atomic state:
 A collection of microstates with the same enery.
+
+$L$ gives the total orbital angular momentum of an atomic state (equal to
+the maximum value of $M_L$.
+$S$ gives the total spin angular momentum of an atomic state (equal to
+the maximum value of $M_S$ (for a given $L$ value).
+
+Orbitals and spins can also interact giving rise to spin-orbit coupling.
+$J$ is the total angular momentum.
 
 Term symbol:
 The label for free ion atomic state.
@@ -318,20 +423,6 @@ steric effects:
 Einfluss der räumlichen Ausdehnung
 eines Moleküls auf den Verlauf der Reaktion.
 
-\minisec{isomers}
-Molecules with the same chemical
-formula but different chemical structures.
-
-structural (constitutional) isomers:
-- Tautomers (considered the same
-chemical compound)
-
-Stereoisomers:
-- cis, trans, fac, mer
-- conformers: rotations about
-formally single bonds.
-- Enantiomers
-
 H is always attached to something.
 
 H-Bond:
@@ -358,9 +449,16 @@ $A$ or $B$ $1\times 1$ representation.
 $E$ $2\times 2$ repr.
 $T$ $3\times 3$ repr.
 
+A peroxide is a compound containing an oxygen–oxygen single bond or the peroxide anion, \ce{O2^{-2}}.
+The simplest stable peroxide is hydrogen peroxide. 
+
 \minisec{alcohol}
 methanol
 \ce{CH3OH}
+
+A polyol is an alcohol containing multiple hydroxyl groups.
+In two technological disciplines the term "polyol" has a
+special meaning: food science and polymer chemistry.
 
 ethanol
 \chemfig{HO-[1]-[7]}
@@ -372,11 +470,20 @@ ethanol
 formaldehyd \ce{CH2O},
 acetaldehyde (acetaldehydeethanal) \ce{CH3CHO}.
 
+Low molecular weight ("small") aldehydes can undergo trimerization to form six membered ring
+systems, or polymerize to yield polyethers.
+
+\minisec{ketone}
+\ce{RC(=O)R^'}, acetone \chemfig{\ce{H3C}-[1](=[2]O)-[7]\ce{CH3}}
+
+Organic compounds containing the carbonyl functional group can be classified as aldehydes or
+ketones depending on the relative position of the carbonyl moiety. In aldehyde the carbonyl is a
+"terminal" or end-carbon functionality; in aldehydes the carbonyl is bound to a carbon and a
+hydrogen atom. In ketones the carbonyl in contained within a hydrocarbon structure, and not on one
+terminus; the carbonyl carbon is bound to two other carbon atoms.
+
 \minisec{alkane}
 methane \ce{CH4}
-
-\minisec{alkene}
-ethylene \ce{C2H4}
 
 \minisec{catenane}
 Mechanically-interlocked molecular
@@ -387,9 +494,6 @@ architecture.
 
 \minisec{alkyne}
 acetylene \ce{C2H2}
-
-\minisec{ketone}
-\ce{RC(=O)R^'}, acetone \chemfig{\ce{H3C}-[1](=[2]O)-[7]\ce{CH3}}
 
 \minisec{phenol}
 \chemfig{
@@ -405,18 +509,139 @@ acetylene \ce{C2H2}
                  )
 }
 
-\minisec{epoxide}
+## isomers
 
-\chemfig{
-           O% 1
-    -[:300]% 2
-    -[:180]% 3
-              (
-         -[:60]\phantom{O}% -> 1
-              )
-}
+Molecules with the same chemical
+formula but different chemical structures.
 
-ethylene oxid
+structural (constitutional) isomers:
+- Tautomers (considered the same
+chemical compound)
+
+Stereoisomers:
+- cis, trans, fac, mer
+- conformers: rotations about
+formally single bonds.
+- Enantiomers
+
+Cis/trans isomerism (geometric isomerism, configurational
+isomerism) is a term used in organic chemistry to refer to
+the stereoisomerism engendered in the relative orientation
+of functional groups within a molecule. It is not to
+be confused with E/Z isomerism, which is an absolute
+stereochemical description, and only to be used with
+alkenes. In general, such isomers contain double bonds that
+cannot rotate, or they may contain ring structures, where
+the rotation of bonds is restricted or eliminated.[1] Cis
+and trans isomers occur both in organic molecules and in
+inorganic coordination complexes. Cis and trans descriptors
+are not used for cases of conformational isomerism where
+the two geometric forms easily interconvert, such as most
+open-chain single-bonded structures; instead, the terms
+“syn” and “anti” would be used.
+Geometric isomers do
+not rotate the plane of polarized light (unless they also contain a chiral center), and hence are not
+optically active.
+
+1-Butene  
+*cis*-2-butene  
+*trans*-2-butene  
+
+Chirality is also a property of compounds containing an asymmetrically substituted atom of
+pyramidal geometry.
+Many stereoisomeric drugs contain more than one asymmetrically substituted atom.
+Today, optical isomers are more commonly
+referred to as enantiomers or an enantiomeric pair.
+The enantiomer rotating the plane to right (clockwise) is
+designated as the dextrorotatory (d) or ( +)-enantiomer. The other enantiomer rotates the plane to
+the left (counterclockwise) and is designated as the levorotatory (1) or (-)-enantiomer.
+
+A mixture consisting of equal amounts of each enantiomer would have no net
+optical rotation; the optical rotation of one enantiomer is cancelled by the rotation of the other
+enantiomer. Such a mixture is referred to as a racemic mixture or racemate.
+Resolution describes the processes whereby a racemic mixture is separated
+(resolved) into its component enantiomers.
+
+In an attempt to designate the precise configurations about carbon centers of
+asymmetry, two nomenclature systems have been developed: the D/L system and the Cahn-
+Ingold-Prelog R/S system. The application of these systems requires that chiral molecules be
+oriented in a Fischer projection to reflect their tetrahedral geometry. In such a projection atoms
+or groups on the horizontal axis are projecting out of the plane of the paper, whereas those on the
+vertical axis are projecting behind the plane of the paper. When using the D/L system, the
+projection is oriented in such a way that the main carbon chain is positioned vertically, with the
+lowest numbered carbon positioned at the top. After the projection is aligned, the position of the
+principal substituent relative to the carbon chain is identified. If it is to the left of the vertical
+axis of the projection, the L-configuration is assigned. If the principal substituent is to the right
+of the vertical axis, the D-configuration is assigned.
+Its application to unnatural structures, such as most
+drugs, is limited because it can only be used when a compound contains a main carbon chain, and
+when an unambiguous choice of the principal substituents can be made. The use of this system is
+also complicated by the fact that the D- and L-absolute configurations are not related to the
+directions that enantiomers rotate plane polarized light.
+
+The lack of a relationship between the sign of optical rotation (d or 1) and absolute configuration
+as designated by D/L, coupled with the uncertainties in assignments for primary substituents
+inherent to the D/L nomenclature system, led to the development of an unambiguous system for
+the designation of absolute configuration by Cahn, Ingold, and Prelog. In applying this method,
+the compound is oriented in a Fischer projection and the four groups or atoms bound to an
+asymmetric carbon are ranked by the following set of sequence rules:
+1. Substituents are ranked (1, 2, 3, 4) by the atomic number of the atom directly joined to the
+chiral carbon.
+2. When two or more of the atoms connected to the chiral carbon are the same, the atomic
+number of the next adjacent atom determines the priority. If two or more atoms connected to
+the second atom are the same, the third atom determines the priority, etc.
+3. All atoms except hydrogen are formally given a valence of 4. When the actual valence is less
+than 4 (N, O), phantom atoms are assigned an atomic number of zero and therefore rank the
+lowest.
+4. A tritium atom has a higher priority than deuterium, which has a higher priority than
+hydrogen. Similarly, any higher isotope has a higher priority than any lower one.
+5. Atoms with double and triple bonds are counted as if they were connected by two or three
+single bonds. Hence a C==C is regarded as a carbon bound to two carbons; and a C==O is
+regarded as a carbon bound to two oxygens,
+Once the four groups bound to the chiral carbon are ranked, the compound is oriented in such a
+way that the lowest priority group (4) is projected away from the observer. Then, if the other
+groups (1, 2, 3) are oriented by priority in a clockwise fashion, the molecule is designated as R
+(rectus), and if counterclockwise, as S (sinister).
+
+In alkanes or alkyl systems, an infinite number of conformations is possible as a result of rotation
+about C—C single bonds, and each conformation has a certain potential energy. A simple
+compound, such as ethane, has two conformational extremes, one of low and one of high
+potential energy.
+The low-energy or
+staggered conformation, exhibits minimal steric interaction between the hydrogen atoms of the
+adjacent carbon atoms. In the high-energy or eclipsed conformation there is maximal steric inter-
+action between these hydrogen atoms.
+
+In ring systems complete rotation about the ring atoms is not possible, but partial rotation is
+possible, resulting in several different conformational extremes. For example, cyclohexane
+systems can exist in three distinct conformations: boat, twist boat, and chair. Of these, the chair
+form is the most stable conformation because steric interactions are minimized.
+The substituents present on a ring conformer are designated as axial or equatorial, depending on the
+direction of projection from the average plane of the carbon skeleton. Substituents that project
+directly up or down from the ring are axial, and those in the plane of the ring are equatorial
+Because of the conformational flexibility of cycloalkanes such as cyclohexane, the ring
+conformation can invert. During inversion, all axial substituents become equatorial and all
+equatorial substituents become axial.
+For example, in the more stable
+conformer of methylcyclohexane the methyl group is equatorial, minimizing unfavorable steric
+interactions.
+
+## Halides
+
+A halide is a binary compound, of which one part is a
+halogen atom and the other part is an element or radical that
+is less electronegative (or more electropositive) than the halogen, to make a
+fluoride, chloride, bromide, iodide, astatide, or theoretically ununseptide compound. Many salts are
+halides; the hal- syllable in halide and halite reflects this correlation. All
+Group 1 metals form halides that are white solids at room temperature.
+
+A halide ion is a halogen atom bearing a negative charge. The
+halide anions are fluoride (F−), chloride (Cl−), bromide (Br−), iodide (I−) and astatide (At−). 
+
+\minisec{Group IIIA halide complexes}
+• all members of the group react directly with halogens
+• the metals will also react with hydrohalic acids
+• Group IIIA halides are Lewis acids, BX 3 is hard, others are soft
 
 ## Functional Groups
 
@@ -425,28 +650,51 @@ Nitrogruppe \ce{-NO2}
 Carbonylgruppe \ce{R=C=O}
 
 Carboxylgruppe (carboxy group) \chemfig{-C(=[1]O)-[7]\ce{OH}}.
-carboxylic acid \ce{CH3OOH}
+
+Carbamoylgruppe ist in der Chemie eine Bezeichnung für die
+Atomgruppierung –CO–NH2 in systematischen Namen gemäß
+der IUPAC-Regel C-431.2.
+
+Eine besondere strukturelle Eigenschaft derartiger
+Verbindungen ist die deutlich eingeschränkte Drehbarkeit
+der C–N-Bindung. Die C–N-Bindung ist durchschnittlich
+nur 132 pm lang, was auf einen Doppelbindungscharakter
+hinweist, der aus der Wechselwirkung des nichtbindenden
+Elektronenpaares des Stickstoffatoms mit der Carbonylgruppe
+resultiert.
+
+In Peptiden wird die Carbamoylgruppe durch „Cbm–“ abgekürzt.[2]
+
+Essigsäureamid ist ein Carbonsäureamid (oft nur kurz
+„Amid“ genannt) und enthält eine Carbamoylgruppe.
+N-Methylessigsäureamid und N,N-Dimethylessigsäureamid
+zählen ebenfalls zu den Carbonsäureamiden, enthalten beide
+jedoch keine Carbamoylgruppe.
 
 Hydroxyl \ce{-O-H}
+
+Hydrogen peroxide is the simplest peroxide (a compound with an oxygen-oxygen single bond)
+
+## Metyhlammonium halides
+
+Methylammonium halides are organic halide with a formula of CH3NH3X, where X ∈ {Cl,Br,I}.
+
+The primary application for these compounds is as a
+component of perovskite (structure) crystalline solar cells.
+The iodide is the most commonly used. When complexed with
+other metallic iodides such as tin iodide or lead iodide
+it can be used as a light gathering compound in place of
+naturally occurring organic dyes, providing excellent
+bandgap and charge mobility. Other methylammonium halides
+such as the chloride and bromide can be used instead of, or
+as minor substituents to, methylammonium iodide, providing
+the ability to tune the absorption, conductivity, and
+apparent bandgap.
 
 ## Einzelne Moleküle
 
 acetic acid (ethanoic acid, Essigsäure)
 \chemfig{-[1](=[2]O)-[7]\ce{OH}}
-
-# Reactions
-
-interaction energy = steric - orbital interaction + charge
-
-Mg + 2H~3~O^+^ -> H~2~ + 2H~2~O + Mg^2+^
-
-Ein Magnesiumatom gibt zwei Elektronen ab und
-wird zu einem doppelt geladenen Magnesium-Ion:
-Das Magnesiumatom wird oxidiert. Jedes Hydronium-Ion
-spaltet ein Proton ab. Die Protonen nehmen je ein Elektron
-auf und werden zu Wasserstoffatomen, d.h. die Protonen
-werden reduziert. Je zwei Wasserstoffatome bilden ein
-H~2~-Molekül.
 
 # Acids and Bases
 
@@ -472,7 +720,7 @@ species (see Lewis base).
 \minisec{neutrale Lösung, reines Wasser}
 
 \Hyd Hydroxidion  
-\HtO Hydroniumion
+\ce{H3O+} Hydroniumion (oxonium)
 
 $[\ce{H3O+}]=[\ce{OH-}]=10^{-7}$ \si{\mol\per\litre}
 
@@ -527,6 +775,14 @@ More acidic than pure sulfuric acid (\ce{H2SO4}.
 Fluoroantimonic acid
 \ce{HF-SbF5}
 
+Arrhenius Model – acids give hydrogen ions in aqueous solution
+and bases give hydroxide in aqueous solution
+Fails to capture analogous reactivity of substances that don’t
+dissociate into H + or OH – , e.g., what do you do about NH 3 ?
+
+Electrophile-Nucleophile Model – acids are electrophilic reagents
+and bases are nucleophilic reagents
+
 ## Brønsted-Lowry Model
 
 Acids release hydrogen ions
@@ -569,7 +825,7 @@ Non-aqueous solvents and gas-phase reactions:
 \schemestop
 
 Lux–Flood definition:
-This definition describes an acid as an oxide ion (O2−) acceptor and
+This definition describes an acid as an oxide ion \ce{O^{2−}} acceptor and
 a base as an oxide ion donor.
 
 \ce{MgO} (base) + \ce{CO2} (acid) → \ce{MgCO3}
@@ -577,6 +833,22 @@ a base as an oxide ion donor.
 \ce{CaO} (base) + \ce{SiO2} (acid) → \ce{CaSiO3}
 
 \ce{NO3-} (base) + \ce{S2O7^{2-}} (acid) → \ce{NO2+} + \ce{2SO4^{2-}}
+
+acid: \ce{SiO2}, \ce{CO2}
+
+basic: \ce{CaO}, \ce{MgO}, \ce{FeO}
+
+acid + base \rightarrow  Salt
+
+Base = Acid + \ce{O2-}
+
+\ce{SiO4^{4-}}=\ce{SiO3^{2-}+\ce{O^{2-}}
+
+\ce{SiO3^{2-}}=\ce{SiO2}+\ce{O^{2-}}
+
+\ce{CaO}=\ce{Ca^{2+}}+\ce{O^{2-}}
+
+Acid = Base + \ce{H+}
 
 **Usanovich's theory** can be summarized as defining an acid as anything that
 accepts negative species or donates positive ones, and a base as the
@@ -600,6 +872,9 @@ There are several models to describe acids and bases. The Lewis
 model is one of the most general since it does not depend on the
 transfer of a hydrogen ion.
 
+Lewis connects the acid base reactions with the formation
+of a coordination bond.
+
 A base is an electron-pair donor and an acid is an electron-pair
 acceptor.
 
@@ -621,6 +896,7 @@ Lewis acid + Lewis base → Lewid adduct
 \ce{NH4+}
 \schemestop
 
+```
 \schemestart
 \ce{Ag+}
 \+\quad
@@ -628,6 +904,19 @@ Lewis acid + Lewis base → Lewid adduct
 \arrow{->}
 \ce{H3N\bond{->}Ag^\oplus\bond{<-}NH3}
 \schemestop
+```
+
+Lewis Acid-Base adducts in which the Lewis acid is a metal ion are
+typically called coordination compounds.
+
+The Lewis concept of acids and bases is readily interpreted using
+molecular orbital theory.
+An acid-base reaction
+occurs when HOMO of
+the base and LUMO of
+the acid combine to
+create new HOMO and
+LUMO in the product
 
 ## Solvent system model
 
@@ -649,7 +938,7 @@ base because it increases the concentration of \ce{OH-}.
 
 m4_esyscmd(◣ ./table001.r ◢)
 
-### Hard-Soft-Acid-Base (HSAB) concept
+## Hard-Soft-Acid-Base (HSAB) concept
 
 Polarizability (deformability by other molecules
 or iones) of the valence electrons of
@@ -737,7 +1026,7 @@ $\pi$-acceptor molecules
 \ce{P(OR)3},
 \ce{C2H4},
 \ce{C6H6},
-\ce{R-}3},
+\ce{R-3},
 \ce{C2H4},
 \ce{C6H6},
 \ce{R-}
@@ -755,6 +1044,10 @@ $η$:
 
 Hard acids have large values of $η$.
 Softness of a donor atom: $σ=\frac{1}{η}$.
+
+Hard acid/hard base adducts tend to have more ionic character
+in their bonding. These are generally more favored energetically.
+Soft acid/soft base adducts are more covalent in nature.
 
 ## Drago's EC Approach
 
@@ -774,7 +1067,16 @@ $E_A$ and $E_B$ are the capacity for electronic
 $C_A$ and $C_B$ are the capacity for covalent
 interactions of the acid and base.
 
-$DH$ (in kJ/mol) = $ -4.184 (C_AC_B+E_AE_B)$
+\ce{I2} is the reference acid with $C_A = E_A =$ 1.00 kcal/mol
+
+Reference bases are \ce{MeC(O)NMe2} ($E_B$ = 1.32) and \ce{SEt2} ($C_B$ = 7.40)
+
+The enthalpy of a given Lewis acid-base reaction can be determined
+using tabulated values
+
+## Leviling effect
+
+In water, the strongest acid you can have is \ce{H3O+}.
 
 # Salz
 
@@ -817,6 +1119,21 @@ only donate one proton per molecule.
 Coagulation (also known as clotting) is the process by which blood changes
 from a liquid to a gel.
 
+## Carboxylic acid
+
+Formic acid (also called methanoic acid) is the simplest
+carboxylic acid. Its chemical formula is \ce{HCOOH} or \ce{HCO2H}.
+Esters, salts, and the anions derived from formic acid are referred to as formates.
+
+Under "dehydrating
+conditions" nucleophiles can attack the acids carbonyl and displace the acid OH as water,
+or another good leaving group. Such is the case in esterification reactions performed
+under acidic conditions.
+In these reactions an acid is treated with an alcohol which serves
+as the nucleophile, and an acid which serves as a catalyst. The acid catalyzes the reaction
+by 1). Further polarizing the carbonyl moiety through partial protonation, and 2).
+Providing a proton source for a hydroxyl leaving group (which "leaves" as water).
+
 # Coordination complex
 
 In coordination complexes there are four types
@@ -842,15 +1159,25 @@ Kaliumsalze von Fettsäuren.
 
 # Ester
 
+Esters contain carbonyl (C=O) and ether (O-C) dipoles arising from covalent bonding between
+electronegative oxygen atoms and electronically neutral carbon atoms. Because of the π-bonding
+arrangement of the carbonyl (C=O), this is the stronger of the two dipoles. The presence of these
+dipoles allows esters to act as hydrogen-bond acceptors. Thus esters can participate in hydrogen
+bonding with water and other protic solvents; the oxygen atoms can accept hydrogen bonds from
+water. As a result the water solubility of esters is greater than that of corresponding hydrocarbons.
+
+The presence of a carbonyl (C=O) and ether (O-C) dipole renders the "central" carbonyl carbon of
+an ester electron deficient; it is an electrophilic carbon atom.
+
 -oic acid -> -oate
 
 \small
 \chemname{\chemfig{R-C(-[:-30]OH)=[:30]O}}{Carboxylic\\ acid}
-\chemsign{+}
-\chemname{\chemfig{R’OH}}{Alcohol}
-\chemrel{->}
-\chemname{\chemfig{R-C(-[:-30]OR’)=[:30]O}}{Ester}
-\chemsign{+}
++
+\chemname{\chemfig{R′OH}}{Alcohol}
+->
+\chemname{\chemfig{R-C(-[:-30]OR′)=[:30]O}}{Ester}
++
 \chemname{\chemfig{H_2O}}{Water}
 \normalsize
 
@@ -1027,4 +1354,644 @@ distributed over the surface of the Fe particles and stabilises them against sin
 and thus a reduction of surface area during the operation of the catalyst. K 2 O acts as
 an electronic promotor (i. e. changes the electronegativity of the external surface)
 and facilitates the chemisorption of \ce{N2} .
+
+# alkene
+
+ethylene \ce{C2H4}
+
+In organic chemistry, an alkene is an unsaturated hydrocarbon that contains at least one carbon–carbon double bond.[
+
+# Diene
+
+Compounds that contain more than two double bonds are called polyenes.
+Polyenes are poly-unsaturated organic compounds that contain
+one or more sequences of alternating double and single
+carbon–carbon bonds. These double carbon–carbon bonds
+interact in a process known as conjugation, which results in
+an overall lower energy state of the molecule.
+
+three classes:
+Cumulated dienes,
+Conjugated dienes,
+Unconjugated dienes.
+
+Allene
+Propadiene, the simplest allene, is also known as allene.
+An allene is a compound in which one carbon atom has double
+bonds with each of its two adjacent carbon centres. Allenes
+are classified as polyenes with cumulated dienes.
+
+1,3-Butadiene is a simple conjugated diene with the formula
+C4H6 . It is an important industrial chemical used as a
+monomer in the production of synthetic rubber. The word
+butadiene usually refers to 1,3–butadiene which has the
+structure H2C=CH—CH=CH2.
+Most butadiene is polymerized to produce synthetic rubber. 
+About 70% of the produced polybutadiene is used in tyre manufacturing
+
+# epoxide
+
+\chemfig{
+           O% 1
+    -[:300]% 2
+    -[:180]% 3
+              (
+         -[:60]\phantom{O}% -> 1
+              )
+}
+
+Ethylene oxide is a colorless flammable gas at room
+temperature, with a faintly sweet odor; it is the simplest
+epoxide.
+
+The dominant epoxides industrially are ethylene oxide and
+propylene oxide, which are produced respectively on the
+scales of approximately 15 and 3 million tonnes/year.
+
+\chemfig{
+           % 1
+          -% 2
+     -[:30]% 3
+    -[:270]O% 4
+              (
+        -[:150]% -> 2
+              )
+}
+
+Propylene oxide
+
+Between 60 and 70% of all propylene oxide is converted
+to polyether polyols for the production of polyurethane
+plastics.
+Polypropylene glycol (PPG)
+In 2003, 60% of the annual production of propylene oxide of 6.6×106 tonnes was converted into the polymer.
+
+\chemfig{
+           Cl% 5
+    -[:150]% 4
+    -[:210]% 2
+    -[:180]% 1
+    -[:300]O% 3
+              (
+         -[:60]% -> 2
+              )
+}
+
+Epichlorohydrin
+
+Epichlorohydrin is a highly reactive compound and is used
+in the production of glycerol, plastics, epoxy glues and
+resins, and elastomers.
+It is used as a solvent for cellulose, resins, and paints.
+
+# Isopren
+
+\chemfig{
+           % 1
+     -[:30]% 2
+              (
+         =[:90]% 3
+              )
+    -[:330]% 4
+     =[:30]% 5
+}
+
+2-Methylbuta-1,3-dien. Es ist ein Derivat des 1,3-Butadiens.
+Isopren ist die Grundeinheit der Terpene, wird selbst aber
+meist nicht zu diesen gezählt.
+
+# Ether
+
+\ce{R-O-R'}
+
+#
+
+\chemfig{
+           N% 2
+          ~% 1
+    -[,,,1]NH_2% 3
+}
+
+In der Chemischen Industrie wird Cyanamid als
+vielfältiger Ausgangsstoff, z. B. zur Herstellung von
+Herbiziden, Kunstharzen (Härtung von Epoxiden) sowie als
+Bleichaktivator für Wasserstoffperoxid bei alkalischem
+pH-Wert in Waschmitteln und zur chlorfreien Zellstoffbleiche
+benötigt.[11]
+
+Carbodiimide sind in der Chemie eine Stoffgruppe organischer Verbindungen.
+Die Stammverbindung Carbodiimid (HN=C=NH) ist unter
+Normalbedingungen instabil, sie steht im tautomeren
+Gleichgewicht mit Cyanamid.[
+
+Der Großteil des Cyanamids wird sofort zu
+Cyanoguanidin umgesetzt und weiterverarbeitet.[2]
+
+\chemfig{
+               N% 2
+              ~% 1
+              -N% 3
+         =[:60]% 4
+                  (
+            -[,,,1]NH_2% 5
+                  )
+    -[:120,,,2]H_2N% 6
+}
+
+It is used in the adhesive industry as a curing agent for epoxies.
+
+# Melamin
+
+Früher spielte die Trimerisierung von Cyanoguanidin eine Rolle.
+Melamin wird heute technisch durch Trimerisierung von Harnstoff gewonnen. 
+Melamin ist Ausgangsstoff für die Herstellung von
+Melaminharzen, die als Leime und Klebstoffe verwendet oder
+zu Duroplasten umgesetzt werden.
+
+# Amin
+
+Acetamid ist das Amid der Essigsäure. Acetamid wird als Lösungsmittel verwendet.
+Außerdem findet es Anwendung in der Herstellung von Methylamin. 
+
+Methylamin ist das Amin des Methans. Es ist das
+einfachste organische Amin und enthält eine primäre
+Aminogruppe. Es kommt als 40%ige wässrige Lösung und als
+druckverflüssigtes Gas in den Handel.
+Durch Umsetzung mit Alkylierungsmitteln, Epoxiden,
+Carbonylverbindungen, organischer Säuren usw.
+kann Methylamin zu zahlreichen Folgeverbindungen
+umgesetzt werden. Methylamin findet Verwendung in
+der Synthese vielerlei Produkte wie Lösungsmittel,
+Pflanzenschutzmittel, Pharmazeutika und Farbstoffe, wie z.
+B. N-Methyl-2-pyrrolidon (NMP), N-Methylformamid, Coffein,
+Ephedrin, Methamphetamin und N,N′-Dimethylharnstoff.
+
+Als Aminogruppe wird in der organischen Chemie die
+funktionelle Gruppe (–NH2) der primären Amine und der
+meisten Aminosäuren verstanden.[1] Genauer betrachtet
+werden Amine in drei Kategorien eingeteilt: primäre,
+sekundäre und tertiäre Amine.[2] Sie unterscheiden sich
+durch die Anzahl der Kohlenstoffe, die an den zentralen
+Stickstoff gebunden sind. Primäre Amine haben einen
+Kohlenstoff gebunden. Sekundäre zwei und tertiäre
+dementsprechend drei.
+
+Als Amine werden organische Abkömmlinge (Derivate) des
+Ammoniaks (NH3) bezeichnet, bei denen ein oder mehrere
+Wasserstoffatome durch Alkyl- oder Arylgruppen ersetzt sind.
+
+Amine werden zur Herstellung von Azoverbindungen verwendet,
+z. B. bei der Herstellung von Farbstoffen. Darüber hinaus
+sind Amine Bausteine für Agro- und Pharmachemikalien sowie
+für Tenside, Coatings und Schmierstoffe. Im Bereich der
+Gießereitechnik finden Amine als Katalysator Anwendung,
+um den Aushärtvorgang der Bindemittel im Formsand bei
+der Kernherstellung nach dem Cold-Box-Verfahren zu
+beschleunigen. Als Katalysatoren dienen Amine auch zur
+Herstellung von Polyurethanen.
+
+Eine Arylgruppe (abgekürzt: Ar) ist ein organisch-chemischer Rest mit einem aromatischen Grundgerüst. 
+
+# Amide
+
+A lactam is a cyclic amide. 
+ε-Lactam (7 ring atoms).
+ε-Caprolactam bildet kettenförmige Makromoleküle, die als
+Kunststoff unter der Bezeichnung Polyamid bekannt sind und
+im industriellen Maßstab erzeugt werden.
+
+\chemfig{
+             O% 5
+      =[:8.6]% 4
+     -[:72.9]% 3
+     -[:21.4]% 2
+      -[:330]% 1
+    -[:278.6]% 8
+    -[:227.1]% 7
+    -[:175.7]{N}{H}% 6
+                (
+        -[:124.3]% -> 4
+                )
+}
+
+Polyamides occur both naturally and artificially. Examples
+of naturally occurring polyamides are proteins, such as
+wool and silk. Artificially made polyamides can be made
+through step-growth polymerization or solid-phase synthesis
+yielding materials such as nylons, aramids, and sodium
+poly(aspartate).
+
+# Lactone
+
+Als Lactone bezeichnet man in der organischen Chemie
+
+heterocyclische Verbindungen, die innerhalb des Moleküls
+eine Esterbindung, d. h. eine Sauerstoffbrücke direkt am
+selben Kohlenstoffatom einer Carbonylgruppe enthalten.
+
+Lactones readily form polyesters.
+Polycaprolactone is an important plastic.
+
+\chemfig{
+             O% 5
+      =[:8.6]% 4
+     -[:72.9]% 3
+     -[:21.4]% 2
+      -[:330]% 1
+    -[:278.6]% 8
+    -[:227.1]% 7
+    -[:175.7]O% 6
+                (
+        -[:124.3]% -> 4
+                )
+}
+
+The great majority of caprolactone is consumed, often
+in situ, as a precursor to caprolactam.[3] It is also a
+monomer used in the manufacture of highly specialised
+polymers. Ring-opening polymerization, for example, gives
+polycaprolactone.
+
+The most common use of polycaprolactone is in the
+manufacture of speciality polyurethanes. Polycaprolactones
+impart good water, oil, solvent and chlorine resistance to
+the polyurethane produced.
+
+This polymer is often used as an additive for resins to
+improve their processing characteristics and their end use
+properties (e.g., impact resistance). Being compatible with
+a range of other materials, PCL can be mixed with starch to
+lower its cost and increase biodegradability or it can be
+added as a polymeric plasticizer to PVC.
+
+# Alkyl
+
+Eine Alkylgruppe ist ein Teil eines Moleküls, der aus
+miteinander verbundenen Kohlenstoff- und Wasserstoffatomen
+besteht. Die einfachste Alkylgruppe ist die Methylgruppe
+–CH3; sie tritt relativ häufig auf. Weitere Beispiele
+sind die Ethylgruppe –CH2–CH3 und die n-Propylgruppe
+–CH2–CH2–CH3.
+
+Alkylgruppen kommen in sehr vielen Molekülen vor,
+insbesondere in den gesättigten Kohlenwasserstoffen, den
+Alkanen. Der Name Alkylgruppe leitet sich davon ab, und auch
+die Benennung der verschiedenen Alkylgruppen richtet sich
+nach dem zugrundeliegenden Alkan (oder Alken oder Alkin):
+Der Namensstamm wird mit dem Suffix „-yl“ erweitert,
+das heißt die Endung -an wird durch -yl ersetzt (oder es
+wird ein -yl angehängt). Die einfachsten Alkylgruppen sind
+Alkane, denen ein Wasserstoffatom fehlt: z. B. leiten sich
+die Methyl-, Ethyl- und Propylgruppen von Methan, Ethan und
+Propan ab. Alkylgruppen werden häufig abgekürzt, wenn sie
+in Struktur- oder Summenformeln auftreten. Beispielsweise
+steht MeOH für Methanol, Et2O für Diethylether. Ist eine
+beliebige Alkylgruppe gemeint, wird oft –R verwendet.
+Da die Abkürzung –R allerdings auch für –H oder gar
+für Reste mit funktionellen Gruppen stehen kann, wird ihre
+Bedeutung meist mit angegeben.
+
+Alkylgruppen besitzen einen schwachen elektronenschiebenden
+Effekt, +I-Effekt genannt. Sie fungieren also als schwache
+Elektronendonatoren.
+
+Vor allem verzweigte Alkylgruppen beeinflussen benachbarte
+funktionelle Gruppen durch ihren Raumbedarf und mindern
+durch diese sterische Hinderung deren Reaktivität.
+
+Je länger und zahlreicher die Alkylgruppen in einer
+Verbindung, desto schlechter wird ihre Wasserlöslichkeit
+und desto besser wird ihre Löslichkeit in unpolaren
+Lösungsmitteln.
+
+# Carbonsäureamide
+
+Bei Carbonsäureamiden unterscheidet man entsprechend der
+Anzahl der Carboxygruppen am Stickstoff zwischen primären
+(eine Carboxygruppe, zwei Wasserstoffatome), sekundären
+(zwei Carboxygruppen, ein Wasserstoffatom) und tertiären
+(drei Carboxygruppen, kein Wasserstoffatom) Amiden. Amide
+mit ein oder zwei Alkylgruppen am Stickstoffatom nennt man
+N-Alkylamide, bzw. N,N-Dialkylamide. Cyclische Amide werden
+als Lactame bezeichnet. Sekundäre Amide von Dicarbonsäuren
+werden Imide genannt. Peptide und Proteine bestehen aus –
+durch Amidbindungen verknüpften – Aminosäuren. Diese
+Form der Bindung wird oft Peptidbindung genannt. Technisch
+sehr bedeutend sind die Polyamidfasern Nylon und Perlon.
+
+Das einfachste Amid, abgeleitet von der Ameisensäure und Ammoniak
+
+\chemfig{
+              O% 2
+       =[:330]% 1
+    -[:30,,,1]NH_2% 3
+}
+
+Harnstoff.
+Ein Diamid, abgeleitet von der Kohlensäure.
+
+# Imide
+
+Die Imidogruppe hat die Form: R2–C(O)–NR1–C(O)–R3,
+wobei C(O) jeweils eine Carbonylfunktion darstellt. R1, R2
+und R3 sind beliebige organische Reste (wie Alkyl- oder
+Arylgruppen) oder Wasserstoffatome.
+
+In der anorganischen Chemie werden Verbindungen, in denen
+die zweiwertige Gruppe =NH an ein Metall gebunden ist, als
+Metallimide (Beispiel Lithiumimid, Li2NH) bezeichnet. Auch
+Imidobischwefelsäure (Imidosulfonsäure, (HSO3)2NH) zählt
+zu den Imiden.[1]
+
+Die meisten übrigen Verbindungen mit der Gruppe =NH werden als Imine bezeichnet.
+
+Die Imidogruppe wird aus zwei Carbonsäuren (oder einer
+Dicarbonsäure) und aus Ammoniak oder einem primären Amin
+gebildet. Ein häufig verwendetes Imid ist Phthalimid, das
+aus Phthalsäure und Ammoniak aufgebaut wird.
+
+# Imine
+
+Imine sind eine Gruppe chemischer Verbindungen, bei denen
+das Sauerstoff-Atom eines Aldehyds oder Ketons formal durch
+ein Stickstoff-Atom ersetzt ist. Das Stickstoff-Atom trägt
+zudem noch ein Wasserstoff-Atom oder einen organischen Rest
+R3; im letzteren Fall spricht man auch von einem Azomethin
+oder einer Schiffschen Base. Der strukturelle Aufbau ist
+also R1R2C=NR3. R1, R2 und R3 können unterschiedliche oder
+gleiche Reste sein, auch Wasserstoffatome.
+
+# Phthalsäure
+
+Üblicherweise wird mit Phthalsäure die ortho-Phthalsäure
+bezeichnet, die neben der Terephthalsäure die größte
+technische Bedeutung hat. Der mengenmäßig größte Teil
+der Phthalsäuren wird zur Herstellung von Kunstharzen oder
+Kunstfasern verwendet.
+
+o-Phthalsäure wurde lange Zeit nur durch Oxidation von
+Naphthalin hergestellt; heute allerdings wird bei weitem
+überwiegend o-Xylol als Rohstoff verwendet. Ebenso wird
+Isophthalsäure aus m-Xylol und Terephthalsäure aus p-Xylol
+hergestellt.[9][10]
+
+o-Phthalsäure ist Rohstoff für die Herstellung von
+Polyesterharzen. Dabei wird die Phthalsäure oder meist
+deren Anhydrid mit mehrwertigen Alkoholen, z. B. Glycerin,
+verestert. Durch Verkochung von mehrfach ungesättigten
+Pflanzenölen wie Leinöl mit Phthalsäure und mehrwertigen
+Alkoholen werden Alkydharze durch Umesterung hergestellt.
+Phthalsäure ist auch Ausgangsstoff zur Darstellung vieler
+Farbstoffe, Farbpigmente oder Weichmacher.
+
+Über die Zwischenstufe Phthalsäuredinitril oder
+Phthalsäureanhydrid können die thermisch sehr
+beständigen Phthalocyanine hergestellt werden.
+Aus dem Phthalsäureanhydrid gelangt man durch
+Friedel-Crafts-Acylierung von Benzol zu Anthrachinon, aus
+dem Küpenfarbstoffe hergestellt werden können.
+
+\chemfig{
+            O% 8
+     =[:120]% 7
+               (
+     -[:180,,,2]HO% 9
+               )
+      -[:60]% 5
+           -% 4
+               (
+         -[:300]% 10
+                   (
+             -[,,,1]OH% 12
+                   )
+         =[:240]O% 11
+               )
+     =^[:60]% 3
+     -[:120]% 2
+    =^[:180]% 1
+     -[:240]% 6
+               (
+        =^[:300]% -> 5
+               )
+}
+
+# Terpene
+
+Terpene, vor allem Mono-, Sesqui- und Diterpene, können aus
+Pflanzen(teilen) oder ätherischen Ölen durch physikalische
+Methoden wie zum Beispiel Wasserdampfdestillation,[22]
+Extraktion oder Chromatographie gewonnen werden.[23]
+Dabei liefern die jugendlichen Pflanzen typischerweise
+die Terpen-Kohlenwasserstoffe und die älteren Pflanzen
+zunehmend die sauerstoffhaltigen Derivate, wie Alkohole,
+Aldehyde und Ketone.
+
+Es gibt aber auch chemische Methoden zur großtechnischen
+Synthese von Terpenen, die meist sehr spezifisch sind.
+
+Die Terpene zählt man in der Systematik der organischen
+Chemie zu den Lipiden. Eine Untergruppe der Terpene
+sind die Terpenoide; hier wurden in späteren Schritten
+der Biosynthese Kohlenstoffatome ausgeschleust. Ihre
+Kohlenstoffanzahl ist folglich nicht mehr durch 5 teilbar.
+Die Zugehörigkeit zu den Terpenen begründet sich in
+einer gemeinsamen Biosynthese und der C5-Regel, nicht
+in gemeinsamen Eigenschaften. Der gemeinsame Baustein
+aller Terpene ist das Isopren. Die Terpene zählen zu den
+sekundären Pflanzenstoffen.
+
+Generell wird zwischen acyclischen, mono-, bi-, tri-, tetra-
+und pentacyclischen Terpenen unterschieden, also Molekülen
+ohne, mit einem, mit zwei, drei, vier oder fünf Ringen.
+
+Monoterpene sind zusammen mit Sesquiterpenen
+Hauptbestandteile von ätherischen Ölen, die von Pflanzen
+in großen Mengen produziert werden. So lässt sich zum
+Beispiel aus einem Quadratmeter mit Nadelstreu bedecktem
+Waldboden bis zu ein Liter an Monoterpenen gewinnen.
+
+## Monoterpene
+
+Es sind über 900 Monoterpene bekannt. Alle werden durch
+Monoterpensynthasen aus Geranylpyrophosphat synthetisiert.
+
+Es gibt rund 200 Monoterpene mit einem Cyclopentangerüst.
+Sie werden in die Iridoide und Secoiridoide unterteilt.
+Entdeckt wurden die Verbindungen zum ersten Mal in einer
+Ameisenart (Iridomyrmex) und sind somit einige der wenigen
+Terpene nichtpflanzlicher Herkunft. Sie zeichnen sich durch
+ein Grundgerüst aus, das einen Sechs- und einen Fünfring
+enthält (Cyclopentanpyrangerüst).
+
+Bicyclische Monoterpene:
+2-Pinen (α-Pinen) ist die Hauptkomponente der
+Terpentinöle, häufig findet sich auch 2(10)-Pinen
+(β-Pinen). Verbenol ist Bestandteil des Terpentins, es ist,
+zusammen mit dem in den Ölen des Rosmarins vorkommenden
+Verbenon ein Sexualpheromon des Borkenkäfers.
+
+## Sesquiterpene
+
+Es gibt mehr als 3.000 Sesquiterpene, sie sind die
+größte Untergruppe der Terpene. Sie leiten sich alle vom
+Farnesylpyrophosphat ab. Es handelt sich hierbei um aus drei
+Isopreneinheiten aufgebaute Verbindungen (15 C-Atome). Von
+den vielen Sesquiterpenen sind nur rund 20 Sesquiterpene als
+Riech- und Aromastoffe wichtig.
+
+Die meisten der Sesquiterpene sind polycyclisch. 
+
+Die monocyclischen Sesquiterpene werden hauptsächlich in
+die Stammverbindungen Bisabolane, Germacrane, Elemane und
+Humulane unterteilt.
+
+## Diterpene
+
+Es gibt rund 5000 bekannte Diterpene, alle
+Diterpene leiten sich von der Ausgangsverbindung
+(E,E,E)-Geranylgeranylpyrophosphat ab.
+
+## Sesterterpene
+
+Sesterterpene wurden erstmals 1965 aus Insektenwachs und
+niederen Pilzen isoliert. Es gibt ungefähr 150 bekannte
+Sesterterpene, davon haben 30 einen Furan-Körper, sie
+leiten sich von 3,7,11,15,19-Pentamethylicosan ab.
+
+## Triterpene
+
+Es gibt ungefähr 1700 Triterpene, die Triterpene sind aus
+sechs Isopreneinheiten aufgebaute Verbindungen (30 C-Atome).
+
+Squalen (mit Betonung auf der letzten Silbe Squalen),
+Summenformel: C30H50, ist eine organische, ungesättigte
+Verbindung aus der Gruppe der Triterpene, die von allen
+höheren Organismen produziert wird. Der Stoff spielt auch
+im menschlichen Stoffwechsel eine Rolle.
+Squalen wird industriell zu Squalan hydriert, das
+als Salbengrundlage, aber auch als Schmiermittel und
+Transformatorenöl Verwendung findet.
+
+## Tetraterpene
+
+Natürliche Tetraterpene sind die etwa 150 bekannten Carotinoide. 
+
+## Polyterpene
+
+Polyterpene, nach Leopold Ruzicka Polyprene (=Polyisoprene), bestehen aus mehr als acht Isopreneinheiten.
+
+Cis-Polyisopren kommt im Kautschuk vor, früher wurde der
+Naturkautschuk durch Vulkanisation zu Gummi verarbeitet.
+
+# Chinone
+
+Chinone (englisch Quinones) sind eine große und wichtige
+Gruppe organischer Verbindungen, die als Oxidationsprodukte
+von Aromaten, insbesondere von Phenolen, aufgefasst werden
+können.
+
+In der technischen Chemie sind sie vor allem zur Gewinnung von Wasserstoffperoxid über Anthrachinon wichtig.
+
+# Steroide
+
+Steroide (gr. στεροειδή, von στερεός
+stereós „fest“[1] und -oid, Latinisierung von
+altgr. -οειδής -oeidḗs, von εἶδος
+eîdos „Ähnlichkeit“) sind eine Stoffklasse der
+Lipide (Moleküle mit lipophilen Gruppen, in der
+Regel wasserunlöslich). Steroide sind Derivate des
+Kohlenwasserstoffs Steran (Cyclopentanoperhydrophenanthren).
+
+\chemfig{
+            % 1
+      >[:64]% 2
+     -[:300]% 3
+           -% 4
+               (
+     <[:300,,,1]OH% 26
+               )
+      >[:60]% 5
+     -[:120]% 6
+               (
+         -[:180]% 7
+                   (
+             <[:132]% 8
+             -[:204]% 9
+             -[:276]% 10
+                       (
+                 -[:180]% 11
+                           (
+                     -[:120]% 13
+                 -[:180,,,2]HO% 14
+                           )
+                 =[:240]O% 12
+                       )
+                       (
+            <:[:254,,,2]HO% 15
+                       )
+             -[:348]% -> 2
+                   )
+         -[:240]% -> 2
+               )
+     <:[:60]% 16
+           -% 17
+     -[:300]% 18
+          =_% 19
+     -[:300]% 20
+               (
+               =O% 21
+               )
+     -[:240]% 22
+    =_[:180]% 23
+     -[:120]% 24
+               (
+         -[:180]% -> 5
+               )
+               (
+          -[:60]% -> 18
+               )
+     <[:240]% 25
+}
+
+# Lipopolysaccharide
+
+Lipopolysaccharide (LPS) sind relativ thermostabile
+(wärmeunempfindliche) Verbindungen aus fettähnlichen
+(Lipo-) Bestandteilen und Zucker-Bestandteilen
+(Polysacchariden). Sie sind in der Äußeren Membran
+gramnegativer Bakterien enthalten. Sie wirken als Antigene
+und dienen der serologischen Charakterisierung und
+Identifizierung der Bakterien. Beim Zerfall der Bakterien
+werden Teile davon frei und wirken toxisch. Diese Teile
+werden als Endotoxine bezeichnet und von intakten Bakterien
+nicht abgegeben.
+
+# electrochemical cell
+
+The basis for an electrochemical cell such as the galvanic cell is
+always a redox reaction which can be broken down into two half-reactions:
+oxidation at anode (loss of electron) and reduction at cathode (gain of electron).
+Electricity is generated due to electric potential difference between two electrodes. This
+potential difference is created as a result of the difference between individual
+potentials of the two metal electrodes with respect to the electrolyte.
+The electric potential also varies with temperature, concentration and pressure. 
+
+\minisec{Electrochemical corrosion}
+
+The combined anodic and cathodic reactions
+form the corrosion cell.
+
+cathodic reactions:
+
+- aerated, acid to neutral solution
+(e.g. seawater, atmospheric weathering)
+\ce{ H+ + 1/4 O2 + e- -> 1/2 H2O }
+$E^\standardstate$ = 1.23 \si{\volt},
+depends on the concentration of the species in the cell.
+
+- deaerated, acid solution
+\ce{ H+ + e- -> 1/2 H2} E^0^ = 0.
+
+- aerated, alkaline solution
+\ce{ 1/2 H2O + 1/4 O2 + e- -> OH-} $E^\standardstate$ = 0.401 \si{\volt}.
 
