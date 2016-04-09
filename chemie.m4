@@ -1995,3 +1995,265 @@ depends on the concentration of the species in the cell.
 - aerated, alkaline solution
 \ce{ 1/2 H2O + 1/4 O2 + e- -> OH-} $E^\standardstate$ = 0.401 \si{\volt}.
 
+# Reaction mechanisms
+
+interaction energy = steric - orbital interaction + charge
+
+Mg + 2H~3~O^+^ -> H~2~ + 2H~2~O + Mg^2+^
+
+Ein Magnesiumatom gibt zwei Elektronen ab und
+wird zu einem doppelt geladenen Magnesium-Ion:
+Das Magnesiumatom wird oxidiert. Jedes Hydronium-Ion
+spaltet ein Proton ab. Die Protonen nehmen je ein Elektron
+auf und werden zu Wasserstoffatomen, d.h. die Protonen
+werden reduziert. Je zwei Wasserstoffatome bilden ein
+H~2~-Molekül.
+
+# Addition
+
+An addition reaction, in organic chemistry, is in its simplest terms an
+organic reaction where two or more molecules combine to form a larger
+one (the adduct).
+
+Addition reactions are limited to chemical compounds that have multiple bonds, such
+as molecules with carbon-carbon double bonds (alkenes), or with triple bonds (alkynes).
+Molecules containing carbon—hetero double bonds like
+carbonyl (\ce{C=O}) groups, or imine (\ce{C=N})
+groups, can undergo addition as they too have double bond character.
+
+In the related addition-elimination reaction an addition reaction is followed by an
+elimination reaction. In the majority of reactions it involves addition of nucleophiles
+to carbonyl compounds in what is called nucleophilic acyl substitution.
+
+# Eliminiation
+
+An elimination reaction is a type of organic reaction in which two
+substituents are removed from a molecule in either a one or two-step
+mechanism. The one-step mechanism is known as the E2 reaction, and the
+two-step mechanism is known as the E1 reaction. 
+
+# Addition-elimination
+
+Atoms that are not sp^2^-hypridized undergo
+substitution via add./ elim.
+
+# Nucleophilic Acyl Substitution
+
+Carbonyl compounds react with nucleophiles via an addition mechanism: the nucleophile attacks
+the carbonyl carbon, forming a tetrahedral intermediate. This reaction can be accelerated
+by acidic conditions, which make the carbonyl more electrophilic, or basic conditions,
+which provide a more anionic and therefore more reactive nucleophile. The tetrahedral
+intermediate itself can be an alcohol or alkoxide, depending on the pH of the reaction.
+
+An alkoxide is the conjugate base of an alcohol and
+therefore consists of an organic group bonded to a
+negatively charged oxygen atom. They can be written as
+RO−, where R is the organic substituent. Alkoxides are
+strong bases and, when R is not bulky, good nucleophiles and
+good ligands. Alkoxides, although generally not stable in
+protic solvents such as water, occur widely as intermediates
+in various reactions, including the Williamson ether
+synthesis. Transition metal alkoxides are widely used for
+coatings and as catalysts.
+
+Enolates are unsaturated alkoxides derived by deprotonation
+of a C-H bond adjacent to a ketone or aldehyde. The
+nucleophilic center for simple alkoxides is located on
+the oxygen, whereas the nucleophilic site on enolates is
+delocalized onto both carbon and oxygen sites.
+Ex. is 2-butanone.
+
+Phenoxides are close relatives of the alkoxides, in
+which the alkyl group is replaced by a derivative of
+benzene. Phenol is more acidic than a typical alcohol;
+thus, phenoxides are correspondingly less basic and less
+nucleophilic than alkoxides. They are, however, often easier
+to handle, and yield derivatives that are more crystalline
+than those of the alkoxides.
+Phenol is weakly acidic and at high pHs gives the phenolate anion C6H5O− (also called phenoxide).
+
+The tetrahedral intermediate of an acyl compound contains a substituent attached to
+the central carbon that can act as a leaving group. After the
+tetrahedral intermediate forms, it collapses, recreating the carbonyl \ce{C=O} bond and ejecting
+the leaving group in an elimination reaction. 
+
+Both steps are reversible and as a result, nucleophilic acyl substitution reactions are equilibrium processes.
+
+\minisec{Leaving Group}
+
+In chemistry, a leaving group is a molecular fragment that departs with
+a pair of electrons in heterolytic bond cleavage.
+
+Common anionic leaving groups are halides
+and sulfonate esters. Fluoride (F^−^) functions as a
+leaving group in the nerve-agent sarin gas. Common neutral molecule leaving groups
+are water and ammonia.
+
+\minisec{Tetrahedral intermediate}
+
+A tetrahedral intermediate is a reaction intermediate in which the bond arrangement
+around an initially double-bonded carbon atom has been transformed from trigonal to
+tetrahedral. Tetrahedral intermediates result from nucleophilic addition to a carbonyl group.
+
+Hemiacetals and hemiketals may be thought of as intermediates
+in the reaction between alcohols and aldehydes or ketones, with
+the final product being a acetal or a ketal.
+
+# Polymerisation
+
+Aufklappen von Doppelbindungen.
+
+# Polykondensation
+
+Abspaltung eines Stoffes, meist Wasser.
+
+# Polyaddition
+
+Atome wechseln den Platz zwischen Molekülen.
+
+---
+
+In chemistry, a glycosidic bond or glycosidic linkage is
+a type of covalent bond that joins a carbohydrate (sugar)
+molecule to another group, which may or may not be another
+carbohydrate.
+glycosidic bond is formed between the hemiacetal or
+hemiketal group of a saccharide (or a molecule derived from
+a saccharide) and the hydroxyl group of some compound such
+as an alcohol. A substance containing a glycosidic bond is a
+glycoside.
+
+# Rearrangement reaction
+
+A rearrangement reaction is a broad class of organic
+reactions where the carbon skeleton of a molecule is
+rearranged to give a structural isomer of the original
+molecule.
+
+# Ethoxylation
+
+Ethoxylation is a chemical reaction in which ethylene oxide
+adds to alcohols and phenols. The process converts the group
+ROH into R(OC~2~H~4~)~n~OH where n ranges from 1 to as high as 10.
+Such compounds are called alcohol ethoxylates.
+
+In addition to alcohols, amines and phenols are commonly ethoxylated.
+
+# 1,2-rearrangement
+
+A 1,2-rearrangement or 1,2-migration or 1,2-shift or
+Whitmore 1,2-shift [1] is an organic reaction where a
+substituent moves from one atom to another atom in a
+chemical compound. In a 1,2 shift the movement involves two
+adjacent atoms but moves over larger distances are possible.
+
+# Pericyclic reactions
+
+In organic chemistry, a pericyclic reaction is a type
+of organic reaction wherein the transition state of the
+molecule has a cyclic geometry, and the reaction progresses
+in a concerted fashion. Pericyclic reactions are usually
+rearrangement reactions.
+
+# iupac
+
+# functional group priority
+
+1) Cations
+2) Carboxylic acids
+3) carboxylic acid derivates
+4) nitrites
+5) Aldehydes
+6) Ketones
+7) alcohols
+8) hydroperoxides
+9) amines
+
+# organic
+
+-   substituents. Functional groups attacked
+to the main carbon chain.
+-   carbon chain length. The main carbon chain is the
+longest possible continuous chain.
+-   Chemical ending. Denotes what type of molecule it is.
+
+# inorganic
+
+-   cation
+-   anion
+
+## coordination complexes
+
+Cation comes before the anion.
+
+Ligands are listed alphabetically (by name, not prefix)
+and come after the metal.
+
+Anionic ligands get an -o suffux (e.g. chloro for Cl~-~),
+neutral ligands keep their normal name exept for H_2_O (aqua)
+and NH_3_ (ammine).
+
+Metals in complex cations keep their normal name.
+
+Metals in complex anions get an -ate suffix,
+exept for the following metals which use their Latin names:
+Fe  ferrate, Ag argenate, Pb plumbate, Sn stannate, Au aurate.
+
+Prefixes are used to designate the geometric arrangement
+of ligands when needed (cis-, trans-, fac-, mer-).
+
+Ligands that bridge two or more metals get a prefix μ~n~-,
+where n is the number of metals bridged.
+
+number of ligands:
+
+m4_esyscmd(◣ echo '
+library(xtable)
+el <- matrix(rep(1, 18), ncol=2)
+rownames(el) <- c("2","3","4","5","6","7","8","9","10")
+colnames(el) <- c("simple prefix", "complex prefix")
+el[1,1] <- "di"
+el[2,1] <- "tri"
+el[3,1] <- "tetra"
+el[4,1] <- "penta"
+el[5,1] <- "hexa"
+el[6,1] <- "hepta"
+el[7,1] <- "octa"
+el[8,1] <- "nona"
+el[9,1] <- "deca"
+
+el[1,2] <- "bis"
+el[2,2] <- "tris"
+el[3,2] <- "tetrakis"
+el[4,2] <- "pentakis"
+el[5,2] <- "hexakis"
+el[6,2] <- "heptakis"
+el[7,2] <- "octakis"
+el[8,2] <- "nonakis"
+el[9,2] <- "decakis"
+print(xtable(el, caption="xtable",style="html"), sanitize.text.function = function(x){x},floating=FALSE,comment=FALSE)
+'|r
+◢)
+
+m4_esyscmd(◣ echo '
+library(xtable)
+el <- matrix(rep(1, 12), ncol=2)
+rownames(el) <- c("O\\textsuperscript{2-}", "PR\\textsubscript{3}", "NR\\textsubscript{2}\\textsuperscript{-}", "NR\\textsubscript{2-}", "-SCN\\textsuperscript{-}", "-NCS\\textsuperscript{-}")
+colnames(el) <- c("common name", "IUPAC name")
+el[1,1] <- "oxo"
+el[2,1] <- "phosphine"
+el[3,1] <- "amido"
+el[4,1] <- "imido"
+el[5,1] <- "thiocyano"
+el[6,1] <- "isothiocyano"
+
+el[1,2] <- "oxide"
+el[2,2] <- "phosphane"
+el[3,2] <- "azanido"
+el[4,2] <- "azanediido"
+el[5,2] <- "thiocyanato-\\textit{S}"
+el[6,2] <- "thiocyanato-\\textit{N}"
+print(xtable(el, caption="xtable",style="html"), sanitize.text.function = function(x){x},floating=FALSE,comment=FALSE)
+'|r
+◢)
+
