@@ -120,66 +120,14 @@ Phase transition.
 Solubility.
 Reactivity.
 
-# Elemente
-
-## Oxygen
-
-\ce{O2} dioxygen or oxygen (ist ein Diradikal)  
-\ce{O3} trioxygen or ozone  
-
-Forms compounds with every element except He, Ne, and Ar.
-
-Hydrogen peroxide, \ce{H2O2}, synthesis is achieved with anthraquinone.
-
-An oxide is any compound with an oxygen in the 2– oxidation state;
-there are three types:
-
-basic oxides are formed with metals and give basic solutions when dissolved in
-water
-
-acidic oxides are formed with p-block elements and give acid solutions when
-dissolved in water
-
-amphoteric oxides can act as either acids or bases
-
-## Carbon
-
-In order to form four single bonds, carbon utilizes the four
-electrons in its valence shell (2s^2^ , 2p^2^ ).
-It does this through a processs of hybridization which utilizes outer s orbital (the 2s) and 3 p orbitals
-(2sp^x,y,z^ ). This type of hybridization is therefore known as sp^3^.
-
-## Sulfur
-
-Sulfur has many allotropes
-
-There are seven different sulfur fluorides,
-but for the other halogens only S 2 X 2 and SX 2 complexes are known.
-
-# Halogens
-
-Interhalogens:
-Diatomics: ClF, ICl, IBr.
-Higher species follow the formula XY n where X is the heavier halogen, Y is the
-lighter (i.e., more electronegative) halogen and n = 3, 5, or 7
-
-## Fluorine
-
-\ce{HF} is extremely toxic.
-
-\ce{F2} most powerful oxidant, most reactive non-metal.
-
-Preparation of aluminium and steel.
-Synthesis of Teflon.
-
-\ce{CHClF2} (CFC-22, Ozon killer)
-
 # Organic chemistry
 
 **Aromatic** compounds contain an aromatic-ring configuration of atoms, such as benzene, whereas
 **aliphatic** compounds do not.
 
-# coordination complexes
+# Inorganic chemistry
+
+## coordination complexes
 
 (Coordination compounds)
 
@@ -237,7 +185,7 @@ are acidic.
 
 # Atom
 
-n principal quantum number.
+$n$ principal quantum number.  
 1 2 3 4 5,
 (K L M N O)
 
@@ -407,7 +355,59 @@ nitrogen (N2); oxygen (O2); fluorine (F2); chlorine (Cl2); bromine (Br2); and io
 
 Polyatomic nonmetal: C, P, S, Se.
 
-## Electronegativity
+## Oxygen
+
+\ce{O2} dioxygen or oxygen (ist ein Diradikal)  
+\ce{O3} trioxygen or ozone  
+
+Forms compounds with every element except He, Ne, and Ar.
+
+Hydrogen peroxide, \ce{H2O2}, synthesis is achieved with anthraquinone.
+
+An oxide is any compound with an oxygen in the 2– oxidation state;
+there are three types:
+
+basic oxides are formed with metals and give basic solutions when dissolved in
+water
+
+acidic oxides are formed with p-block elements and give acid solutions when
+dissolved in water
+
+amphoteric oxides can act as either acids or bases
+
+## Carbon
+
+In order to form four single bonds, carbon utilizes the four
+electrons in its valence shell (2s^2^ , 2p^2^ ).
+It does this through a processs of hybridization which utilizes outer s orbital (the 2s) and 3 p orbitals
+(2sp^x,y,z^ ). This type of hybridization is therefore known as sp^3^.
+
+## Sulfur
+
+Sulfur has many allotropes
+
+There are seven different sulfur fluorides,
+but for the other halogens only S 2 X 2 and SX 2 complexes are known.
+
+## Halogens
+
+Interhalogens:
+Diatomics: ClF, ICl, IBr.
+Higher species follow the formula XY n where X is the heavier halogen, Y is the
+lighter (i.e., more electronegative) halogen and n = 3, 5, or 7
+
+## Fluorine
+
+\ce{HF} is extremely toxic.
+
+\ce{F2} most powerful oxidant, most reactive non-metal.
+
+Preparation of aluminium and steel.
+Synthesis of Teflon.
+
+\ce{CHClF2} (CFC-22, Ozon killer)
+
+# Electronegativity
 
 \ce{H} 2.1
 
@@ -509,6 +509,8 @@ acetylene \ce{C2H2}
                  )
 }
 
+Usually, a "phenyl group" is synonymous to C6H5– and is represented by the symbol Ph.
+
 ## isomers
 
 Molecules with the same chemical
@@ -585,6 +587,7 @@ inherent to the D/L nomenclature system, led to the development of an unambiguou
 the designation of absolute configuration by Cahn, Ingold, and Prelog. In applying this method,
 the compound is oriented in a Fischer projection and the four groups or atoms bound to an
 asymmetric carbon are ranked by the following set of sequence rules:
+
 1. Substituents are ranked (1, 2, 3, 4) by the atomic number of the atom directly joined to the
 chiral carbon.
 2. When two or more of the atoms connected to the chiral carbon are the same, the atomic
@@ -598,6 +601,7 @@ hydrogen. Similarly, any higher isotope has a higher priority than any lower one
 5. Atoms with double and triple bonds are counted as if they were connected by two or three
 single bonds. Hence a C==C is regarded as a carbon bound to two carbons; and a C==O is
 regarded as a carbon bound to two oxygens,
+
 Once the four groups bound to the chiral carbon are ranked, the compound is oriented in such a
 way that the lowest priority group (4) is projected away from the observer. Then, if the other
 groups (1, 2, 3) are oriented by priority in a clockwise fashion, the molecule is designated as R
@@ -639,9 +643,10 @@ A halide ion is a halogen atom bearing a negative charge. The
 halide anions are fluoride (F−), chloride (Cl−), bromide (Br−), iodide (I−) and astatide (At−). 
 
 \minisec{Group IIIA halide complexes}
-• all members of the group react directly with halogens
-• the metals will also react with hydrohalic acids
-• Group IIIA halides are Lewis acids, BX 3 is hard, others are soft
+
+- all members of the group react directly with halogens
+- the metals will also react with hydrohalic acids
+- Group IIIA halides are Lewis acids, BX 3 is hard, others are soft
 
 ## Functional Groups
 
@@ -696,6 +701,135 @@ apparent bandgap.
 acetic acid (ethanoic acid, Essigsäure)
 \chemfig{-[1](=[2]O)-[7]\ce{OH}}
 
+### Carboxylic acid
+
+Formic acid (also called methanoic acid) is the simplest
+carboxylic acid. Its chemical formula is \ce{HCOOH} or \ce{HCO2H}.
+Esters, salts, and the anions derived from formic acid are referred to as formates.
+
+Under "dehydrating
+conditions" nucleophiles can attack the acids carbonyl and displace the acid OH as water,
+or another good leaving group. Such is the case in esterification reactions performed
+under acidic conditions.
+In these reactions an acid is treated with an alcohol which serves
+as the nucleophile, and an acid which serves as a catalyst. The acid catalyzes the reaction
+by 1). Further polarizing the carbonyl moiety through partial protonation, and 2).
+Providing a proton source for a hydroxyl leaving group (which "leaves" as water).
+
+### Isopren
+
+\chemfig{
+           % 1
+     -[:30]% 2
+              (
+         =[:90]% 3
+              )
+    -[:330]% 4
+     =[:30]% 5
+}
+
+2-Methylbuta-1,3-dien. Es ist ein Derivat des 1,3-Butadiens.
+Isopren ist die Grundeinheit der Terpene, wird selbst aber
+meist nicht zu diesen gezählt.
+
+### Cyanamid
+
+\chemfig{
+           N% 2
+          ~% 1
+    -[,,,1]NH_2% 3
+}
+
+In der Chemischen Industrie wird Cyanamid als
+vielfältiger Ausgangsstoff, z. B. zur Herstellung von
+Herbiziden, Kunstharzen (Härtung von Epoxiden) sowie als
+Bleichaktivator für Wasserstoffperoxid bei alkalischem
+pH-Wert in Waschmitteln und zur chlorfreien Zellstoffbleiche
+benötigt.
+
+Carbodiimide sind in der Chemie eine Stoffgruppe organischer Verbindungen.
+Die Stammverbindung Carbodiimid (HN=C=NH) ist unter
+Normalbedingungen instabil, sie steht im tautomeren
+Gleichgewicht mit Cyanamid.
+
+Der Großteil des Cyanamids wird sofort zu
+Cyanoguanidin umgesetzt und weiterverarbeitet.
+
+\chemfig{
+               N% 2
+              ~% 1
+              -N% 3
+         =[:60]% 4
+                  (
+            -[,,,1]NH_2% 5
+                  )
+    -[:120,,,2]H_2N% 6
+}
+
+It is used in the adhesive industry as a curing agent for epoxies.
+
+### Melamin
+
+Früher spielte die Trimerisierung von Cyanoguanidin eine Rolle.
+Melamin wird heute technisch durch Trimerisierung von Harnstoff gewonnen. 
+Melamin ist Ausgangsstoff für die Herstellung von
+Melaminharzen, die als Leime und Klebstoffe verwendet oder
+zu Duroplasten umgesetzt werden.
+
+### Phthalsäure
+
+Üblicherweise wird mit Phthalsäure die ortho-Phthalsäure
+bezeichnet, die neben der Terephthalsäure die größte
+technische Bedeutung hat. Der mengenmäßig größte Teil
+der Phthalsäuren wird zur Herstellung von Kunstharzen oder
+Kunstfasern verwendet.
+
+o-Phthalsäure wurde lange Zeit nur durch Oxidation von
+Naphthalin hergestellt; heute allerdings wird bei weitem
+überwiegend o-Xylol als Rohstoff verwendet. Ebenso wird
+Isophthalsäure aus m-Xylol und Terephthalsäure aus p-Xylol
+hergestellt.
+
+o-Phthalsäure ist Rohstoff für die Herstellung von
+Polyesterharzen. Dabei wird die Phthalsäure oder meist
+deren Anhydrid mit mehrwertigen Alkoholen, z. B. Glycerin,
+verestert. Durch Verkochung von mehrfach ungesättigten
+Pflanzenölen wie Leinöl mit Phthalsäure und mehrwertigen
+Alkoholen werden Alkydharze durch Umesterung hergestellt.
+Phthalsäure ist auch Ausgangsstoff zur Darstellung vieler
+Farbstoffe, Farbpigmente oder Weichmacher.
+
+Über die Zwischenstufe Phthalsäuredinitril oder
+Phthalsäureanhydrid können die thermisch sehr
+beständigen Phthalocyanine hergestellt werden.
+Aus dem Phthalsäureanhydrid gelangt man durch
+Friedel-Crafts-Acylierung von Benzol zu Anthrachinon, aus
+dem Küpenfarbstoffe hergestellt werden können.
+
+\chemfig{
+            O% 8
+     =[:120]% 7
+               (
+     -[:180,,,2]HO% 9
+               )
+      -[:60]% 5
+           -% 4
+               (
+         -[:300]% 10
+                   (
+             -[,,,1]OH% 12
+                   )
+         =[:240]O% 11
+               )
+     =^[:60]% 3
+     -[:120]% 2
+    =^[:180]% 1
+     -[:240]% 6
+               (
+        =^[:300]% -> 5
+               )
+}
+
 # Acids and Bases
 
 Acid:
@@ -745,7 +879,7 @@ Skala 0 bis 14.
 
 \Ka = $\frac{[\ce{A-}][\ce{H+}]}{[\ce{HA}]}$
 
-\pKa = $-\log_{10}$\Ka
+\pKa = $-\log_{10}$ \Ka
 
 \pH = \pKa $+\log{[\ce{A-}]}{[\ce{HA}]}$
 
@@ -858,7 +992,7 @@ of acid-base reactions
 Some examples of Usanovich acid-base reactions include:
 
 \ce{Na2O} (base) + \ce{SO3} (acid) → \ce{2Na+} + \ce{SO4^{2-}}
-(species exchanged: anion \ce{O2−})
+(species exchanged: anion \ce{O2^-})
 
 \ce{3(NH_4)_2S} (base) + \ce{Sb2S5} (acid) → \ce{6NH4+} + \ce{2SbS4^{3-}}
 (species exchanged: anion \ce{S^{2−}})
@@ -933,10 +1067,6 @@ acid because it increases the concentration of \ce{H3O+}.
 
 \ce{NH3 + H2O <=> NH4+ + OH-},
 base because it increases the concentration of \ce{OH-}.
-
-\minisec{DMSO}
-
-m4_esyscmd(◣ ./table001.r ◢)
 
 ## Hard-Soft-Acid-Base (HSAB) concept
 
@@ -1119,30 +1249,6 @@ only donate one proton per molecule.
 Coagulation (also known as clotting) is the process by which blood changes
 from a liquid to a gel.
 
-## Carboxylic acid
-
-Formic acid (also called methanoic acid) is the simplest
-carboxylic acid. Its chemical formula is \ce{HCOOH} or \ce{HCO2H}.
-Esters, salts, and the anions derived from formic acid are referred to as formates.
-
-Under "dehydrating
-conditions" nucleophiles can attack the acids carbonyl and displace the acid OH as water,
-or another good leaving group. Such is the case in esterification reactions performed
-under acidic conditions.
-In these reactions an acid is treated with an alcohol which serves
-as the nucleophile, and an acid which serves as a catalyst. The acid catalyzes the reaction
-by 1). Further polarizing the carbonyl moiety through partial protonation, and 2).
-Providing a proton source for a hydroxyl leaving group (which "leaves" as water).
-
-# Coordination complex
-
-In coordination complexes there are four types
-of constitutional isomers:
-- hydrate (solvent) isomerism
-- ionization isomers
-- coordination isomerism
-- linkage isomerism
-
 # Seifen
 
 Löslich, unlöslich.
@@ -1213,7 +1319,7 @@ Bonding, anit-bonding, non-bonding.
 
 Gerade g (bonding), ungerade u (antibonding).
 
-## Ligand Field Theorie (LFT)
+# Ligand Field Theorie (LFT)
 
 In LFT we use metal valence orbitals and ligand
 frontier orbitals to make metal-ligand molecular
@@ -1223,14 +1329,14 @@ Sc to Zn (3d`-----` 4s`-` 4p `---`)
 Y to Cd (4d`-----` 5s`-` 5p `---`)  
 La to Hg (5d`-----` 6s`-` 6p `---`)  
 
-## Functional groups
+# Functional groups
 
 A functional group is a moiety that participates in similar chemical reactions
 in most molecules that contain it.
 
 In organic chemistry moiety /ˈmɔɪəti/ is a term used for part of a molecule.
 
-## Radicals
+# Radicals
 
 In chemistry, a radical (more precisely, a free radical) is an atom,
 molecule, or ion that has unpaired valence electrons.
@@ -1238,11 +1344,6 @@ molecule, or ion that has unpaired valence electrons.
 nucleophilic:
 
 electrophilic:
-
-## Pericyclic reactions
-
-Photon $hv$ can drive pericyclic reactions,
-selection rules reversed.
 
 # Spectroscopy
 
@@ -1270,58 +1371,6 @@ like the binary products of $x$, $y$ and $z$
 their linear combinations) do this.
 
 N~2~O~4~: 3A~g~, 2B~1g~, B~2g~
-
-# Sugar
-
-A carbohydrate is a biological molecule consisting of carbon (C), hydrogen (H)
-and oxygen (O) atoms.
-The term is most common in biochemistry, where it is a synonym of saccharide.
-The saccharides are divided into four chemical groups: monosaccharides, disaccharides, oligosaccharides, and
-polysaccharides. 
-Carbohydrates, are commonly referred to as sugars.[6] The word saccharide comes from
-the Greek word σάκχαρον (sákkharon), meaning "sugar." While the scientific nomenclature of
-carbohydrates is complex, the names of the monosaccharides and disaccharides very often
-end in the suffix -ose. For example, grape sugar is the monosaccharide
-glucose, cane sugar is the disaccharide sucrose and milk sugar is the
-disaccharide lactose.
-
-An oligosaccharide (from the Greek ολίγος oligos, a few, and ζάχαρ sacchar,
-sugar) is a saccharide polymer containing a small number (typically three to
-nine[1][2][3][4]) of simple sugars (monosaccharides). 
-
-## Aldose
-
-### Diose
-
-Glycolaldehyde (HOCH2-CH=O) is the smallest possible molecule that contains both an aldehyde
-group and a hydroxyl group. It is the only possible diose, a
-2-carbon monosaccharide, although a diose is not strictly a saccharide. While not
-a true sugar, it is the simplest sugar-related molecule.[
-
-### Pentose
-
-#### Aldopentoses
-
-Xylose
-Arabinose
-
-#### Ketopentoses
-
-### Hexoses
-
-mannose
-glucose
-galactose
-talose (unnatural)
-
-idose:
-not found in nature.
-L-Iduronic acid (IdoA).
-Uronic acid.
-
-Gulose (very rare in nature)
-Altrose (unnatural)
-Allose (rare)
 
 # Catalysts
 
@@ -1355,13 +1404,16 @@ and thus a reduction of surface area during the operation of the catalyst. K 2 O
 an electronic promotor (i. e. changes the electronegativity of the external surface)
 and facilitates the chemisorption of \ce{N2} .
 
-# alkene
+# Stoffgruppen
+
+## alkene
 
 ethylene \ce{C2H4}
 
-In organic chemistry, an alkene is an unsaturated hydrocarbon that contains at least one carbon–carbon double bond.[
+In organic chemistry, an alkene is an unsaturated hydrocarbon that contains at
+least one carbon–carbon double bond.
 
-# Diene
+## Diene
 
 Compounds that contain more than two double bonds are called polyenes.
 Polyenes are poly-unsaturated organic compounds that contain
@@ -1389,7 +1441,7 @@ structure H2C=CH—CH=CH2.
 Most butadiene is polymerized to produce synthetic rubber. 
 About 70% of the produced polybutadiene is used in tyre manufacturing
 
-# epoxide
+## epoxide
 
 \chemfig{
            O% 1
@@ -1444,71 +1496,11 @@ in the production of glycerol, plastics, epoxy glues and
 resins, and elastomers.
 It is used as a solvent for cellulose, resins, and paints.
 
-# Isopren
+## Ether
 
-\chemfig{
-           % 1
-     -[:30]% 2
-              (
-         =[:90]% 3
-              )
-    -[:330]% 4
-     =[:30]% 5
-}
+`\ce{R-O-R'}`
 
-2-Methylbuta-1,3-dien. Es ist ein Derivat des 1,3-Butadiens.
-Isopren ist die Grundeinheit der Terpene, wird selbst aber
-meist nicht zu diesen gezählt.
-
-# Ether
-
-\ce{R-O-R'}
-
-#
-
-\chemfig{
-           N% 2
-          ~% 1
-    -[,,,1]NH_2% 3
-}
-
-In der Chemischen Industrie wird Cyanamid als
-vielfältiger Ausgangsstoff, z. B. zur Herstellung von
-Herbiziden, Kunstharzen (Härtung von Epoxiden) sowie als
-Bleichaktivator für Wasserstoffperoxid bei alkalischem
-pH-Wert in Waschmitteln und zur chlorfreien Zellstoffbleiche
-benötigt.[11]
-
-Carbodiimide sind in der Chemie eine Stoffgruppe organischer Verbindungen.
-Die Stammverbindung Carbodiimid (HN=C=NH) ist unter
-Normalbedingungen instabil, sie steht im tautomeren
-Gleichgewicht mit Cyanamid.[
-
-Der Großteil des Cyanamids wird sofort zu
-Cyanoguanidin umgesetzt und weiterverarbeitet.[2]
-
-\chemfig{
-               N% 2
-              ~% 1
-              -N% 3
-         =[:60]% 4
-                  (
-            -[,,,1]NH_2% 5
-                  )
-    -[:120,,,2]H_2N% 6
-}
-
-It is used in the adhesive industry as a curing agent for epoxies.
-
-# Melamin
-
-Früher spielte die Trimerisierung von Cyanoguanidin eine Rolle.
-Melamin wird heute technisch durch Trimerisierung von Harnstoff gewonnen. 
-Melamin ist Ausgangsstoff für die Herstellung von
-Melaminharzen, die als Leime und Klebstoffe verwendet oder
-zu Duroplasten umgesetzt werden.
-
-# Amin
+## Amin
 
 Acetamid ist das Amid der Essigsäure. Acetamid wird als Lösungsmittel verwendet.
 Außerdem findet es Anwendung in der Herstellung von Methylamin. 
@@ -1552,7 +1544,7 @@ Herstellung von Polyurethanen.
 
 Eine Arylgruppe (abgekürzt: Ar) ist ein organisch-chemischer Rest mit einem aromatischen Grundgerüst. 
 
-# Amide
+## Amide
 
 A lactam is a cyclic amide. 
 ε-Lactam (7 ring atoms).
@@ -1581,7 +1573,7 @@ through step-growth polymerization or solid-phase synthesis
 yielding materials such as nylons, aramids, and sodium
 poly(aspartate).
 
-# Lactone
+## Lactone
 
 Als Lactone bezeichnet man in der organischen Chemie
 
@@ -1624,7 +1616,7 @@ a range of other materials, PCL can be mixed with starch to
 lower its cost and increase biodegradability or it can be
 added as a polymeric plasticizer to PVC.
 
-# Alkyl
+## Alkyl
 
 Eine Alkylgruppe ist ein Teil eines Moleküls, der aus
 miteinander verbundenen Kohlenstoff- und Wasserstoffatomen
@@ -1664,7 +1656,7 @@ Verbindung, desto schlechter wird ihre Wasserlöslichkeit
 und desto besser wird ihre Löslichkeit in unpolaren
 Lösungsmitteln.
 
-# Carbonsäureamide
+## Carbonsäureamide
 
 Bei Carbonsäureamiden unterscheidet man entsprechend der
 Anzahl der Carboxygruppen am Stickstoff zwischen primären
@@ -1690,7 +1682,7 @@ Das einfachste Amid, abgeleitet von der Ameisensäure und Ammoniak
 Harnstoff.
 Ein Diamid, abgeleitet von der Kohlensäure.
 
-# Imide
+## Imide
 
 Die Imidogruppe hat die Form: R2–C(O)–NR1–C(O)–R3,
 wobei C(O) jeweils eine Carbonylfunktion darstellt. R1, R2
@@ -1710,7 +1702,7 @@ Dicarbonsäure) und aus Ammoniak oder einem primären Amin
 gebildet. Ein häufig verwendetes Imid ist Phthalimid, das
 aus Phthalsäure und Ammoniak aufgebaut wird.
 
-# Imine
+## Imine
 
 Imine sind eine Gruppe chemischer Verbindungen, bei denen
 das Sauerstoff-Atom eines Aldehyds oder Ketons formal durch
@@ -1721,61 +1713,7 @@ oder einer Schiffschen Base. Der strukturelle Aufbau ist
 also R1R2C=NR3. R1, R2 und R3 können unterschiedliche oder
 gleiche Reste sein, auch Wasserstoffatome.
 
-# Phthalsäure
-
-Üblicherweise wird mit Phthalsäure die ortho-Phthalsäure
-bezeichnet, die neben der Terephthalsäure die größte
-technische Bedeutung hat. Der mengenmäßig größte Teil
-der Phthalsäuren wird zur Herstellung von Kunstharzen oder
-Kunstfasern verwendet.
-
-o-Phthalsäure wurde lange Zeit nur durch Oxidation von
-Naphthalin hergestellt; heute allerdings wird bei weitem
-überwiegend o-Xylol als Rohstoff verwendet. Ebenso wird
-Isophthalsäure aus m-Xylol und Terephthalsäure aus p-Xylol
-hergestellt.[9][10]
-
-o-Phthalsäure ist Rohstoff für die Herstellung von
-Polyesterharzen. Dabei wird die Phthalsäure oder meist
-deren Anhydrid mit mehrwertigen Alkoholen, z. B. Glycerin,
-verestert. Durch Verkochung von mehrfach ungesättigten
-Pflanzenölen wie Leinöl mit Phthalsäure und mehrwertigen
-Alkoholen werden Alkydharze durch Umesterung hergestellt.
-Phthalsäure ist auch Ausgangsstoff zur Darstellung vieler
-Farbstoffe, Farbpigmente oder Weichmacher.
-
-Über die Zwischenstufe Phthalsäuredinitril oder
-Phthalsäureanhydrid können die thermisch sehr
-beständigen Phthalocyanine hergestellt werden.
-Aus dem Phthalsäureanhydrid gelangt man durch
-Friedel-Crafts-Acylierung von Benzol zu Anthrachinon, aus
-dem Küpenfarbstoffe hergestellt werden können.
-
-\chemfig{
-            O% 8
-     =[:120]% 7
-               (
-     -[:180,,,2]HO% 9
-               )
-      -[:60]% 5
-           -% 4
-               (
-         -[:300]% 10
-                   (
-             -[,,,1]OH% 12
-                   )
-         =[:240]O% 11
-               )
-     =^[:60]% 3
-     -[:120]% 2
-    =^[:180]% 1
-     -[:240]% 6
-               (
-        =^[:300]% -> 5
-               )
-}
-
-# Terpene
+## Terpene
 
 Terpene, vor allem Mono-, Sesqui- und Diterpene, können aus
 Pflanzen(teilen) oder ätherischen Ölen durch physikalische
@@ -1810,7 +1748,7 @@ in großen Mengen produziert werden. So lässt sich zum
 Beispiel aus einem Quadratmeter mit Nadelstreu bedecktem
 Waldboden bis zu ein Liter an Monoterpenen gewinnen.
 
-## Monoterpene
+### Monoterpene
 
 Es sind über 900 Monoterpene bekannt. Alle werden durch
 Monoterpensynthasen aus Geranylpyrophosphat synthetisiert.
@@ -1830,7 +1768,7 @@ Terpentinöle, häufig findet sich auch 2(10)-Pinen
 zusammen mit dem in den Ölen des Rosmarins vorkommenden
 Verbenon ein Sexualpheromon des Borkenkäfers.
 
-## Sesquiterpene
+### Sesquiterpene
 
 Es gibt mehr als 3.000 Sesquiterpene, sie sind die
 größte Untergruppe der Terpene. Sie leiten sich alle vom
@@ -1845,20 +1783,20 @@ Die monocyclischen Sesquiterpene werden hauptsächlich in
 die Stammverbindungen Bisabolane, Germacrane, Elemane und
 Humulane unterteilt.
 
-## Diterpene
+### Diterpene
 
 Es gibt rund 5000 bekannte Diterpene, alle
 Diterpene leiten sich von der Ausgangsverbindung
 (E,E,E)-Geranylgeranylpyrophosphat ab.
 
-## Sesterterpene
+### Sesterterpene
 
 Sesterterpene wurden erstmals 1965 aus Insektenwachs und
 niederen Pilzen isoliert. Es gibt ungefähr 150 bekannte
 Sesterterpene, davon haben 30 einen Furan-Körper, sie
 leiten sich von 3,7,11,15,19-Pentamethylicosan ab.
 
-## Triterpene
+### Triterpene
 
 Es gibt ungefähr 1700 Triterpene, die Triterpene sind aus
 sechs Isopreneinheiten aufgebaute Verbindungen (30 C-Atome).
@@ -1872,18 +1810,18 @@ Squalen wird industriell zu Squalan hydriert, das
 als Salbengrundlage, aber auch als Schmiermittel und
 Transformatorenöl Verwendung findet.
 
-## Tetraterpene
+### Tetraterpene
 
 Natürliche Tetraterpene sind die etwa 150 bekannten Carotinoide. 
 
-## Polyterpene
+### Polyterpene
 
 Polyterpene, nach Leopold Ruzicka Polyprene (=Polyisoprene), bestehen aus mehr als acht Isopreneinheiten.
 
 Cis-Polyisopren kommt im Kautschuk vor, früher wurde der
 Naturkautschuk durch Vulkanisation zu Gummi verarbeitet.
 
-# Chinone
+## Chinone
 
 Chinone (englisch Quinones) sind eine große und wichtige
 Gruppe organischer Verbindungen, die als Oxidationsprodukte
@@ -1892,7 +1830,7 @@ können.
 
 In der technischen Chemie sind sie vor allem zur Gewinnung von Wasserstoffperoxid über Anthrachinon wichtig.
 
-# Steroide
+## Steroide
 
 Steroide (gr. στεροειδή, von στερεός
 stereós „fest“[1] und -oid, Latinisierung von
@@ -1953,19 +1891,6 @@ Kohlenwasserstoffs Steran (Cyclopentanoperhydrophenanthren).
      <[:240]% 25
 }
 
-# Lipopolysaccharide
-
-Lipopolysaccharide (LPS) sind relativ thermostabile
-(wärmeunempfindliche) Verbindungen aus fettähnlichen
-(Lipo-) Bestandteilen und Zucker-Bestandteilen
-(Polysacchariden). Sie sind in der Äußeren Membran
-gramnegativer Bakterien enthalten. Sie wirken als Antigene
-und dienen der serologischen Charakterisierung und
-Identifizierung der Bakterien. Beim Zerfall der Bakterien
-werden Teile davon frei und wirken toxisch. Diese Teile
-werden als Endotoxine bezeichnet und von intakten Bakterien
-nicht abgegeben.
-
 # electrochemical cell
 
 The basis for an electrochemical cell such as the galvanic cell is
@@ -2009,7 +1934,7 @@ auf und werden zu Wasserstoffatomen, d.h. die Protonen
 werden reduziert. Je zwei Wasserstoffatome bilden ein
 H~2~-Molekül.
 
-# Addition
+## Addition
 
 An addition reaction, in organic chemistry, is in its simplest terms an
 organic reaction where two or more molecules combine to form a larger
@@ -2025,19 +1950,47 @@ In the related addition-elimination reaction an addition reaction is followed by
 elimination reaction. In the majority of reactions it involves addition of nucleophiles
 to carbonyl compounds in what is called nucleophilic acyl substitution.
 
-# Eliminiation
+## Eliminiation
 
 An elimination reaction is a type of organic reaction in which two
 substituents are removed from a molecule in either a one or two-step
 mechanism. The one-step mechanism is known as the E2 reaction, and the
 two-step mechanism is known as the E1 reaction. 
 
-# Addition-elimination
+## Addition-elimination
 
 Atoms that are not sp^2^-hypridized undergo
 substitution via add./ elim.
 
-# Nucleophilic Acyl Substitution
+## Nucleophilic Substitution
+
+The S~N~2 reaction is a type of reaction mechanism that is common in organic
+chemistry. In this mechanism, one bond is broken and one bond is formed
+synchronously, i.e., in one step. S~N~2 is a kind of nucleophilic substitution
+reaction mechanism. Since two reacting species are involved in the slow
+(rate-determining) step, this leads to the term substitution nucleophilic
+(bi-molecular) or S~N~2, the other major kind is S~N~1.
+
+The SN1 reaction is a substitution reaction in organic chemistry. "SN" stands
+for nucleophilic substitution and the "1" represents the fact that the
+rate-determining step is unimolecular.[1][2] Thus, the rate equation is often
+shown as having first-order dependence on electrophile and zero-order
+dependence on nucleophile. This relationship holds for situations where the
+amount of nucleophile is much greater than that of the carbocation
+intermediate. Instead, the rate equation may be more accurately described using
+steady-state kinetics. The reaction involves a carbocation intermediate and is
+commonly seen in reactions of secondary or tertiary alkyl halides under
+strongly basic conditions or, under strongly acidic conditions, with secondary
+or tertiary alcohols. With primary alkyl halides, the alternative SN2 reaction
+occurs. 
+This reaction does not depend much on the strength of the nucleophile unlike the SN2 mechanism.
+
+In present-day chemistry, a carbocation is any positively charged carbon atom,
+classified in two main categories according to the valence of the charged
+carbon: three in the carbenium ions (protonated carbenes), and five or six in
+the carbonium ions (protonated alkanes, named by analogy to ammonium).
+
+## Nucleophilic Acyl Substitution
 
 Carbonyl compounds react with nucleophiles via an addition mechanism: the nucleophile attacks
 the carbonyl carbon, forming a tetrahedral intermediate. This reaction can be accelerated
@@ -2099,15 +2052,15 @@ Hemiacetals and hemiketals may be thought of as intermediates
 in the reaction between alcohols and aldehydes or ketones, with
 the final product being a acetal or a ketal.
 
-# Polymerisation
+## Polymerisation
 
 Aufklappen von Doppelbindungen.
 
-# Polykondensation
+## Polykondensation
 
 Abspaltung eines Stoffes, meist Wasser.
 
-# Polyaddition
+## Polyaddition
 
 Atome wechseln den Platz zwischen Molekülen.
 
@@ -2123,14 +2076,14 @@ a saccharide) and the hydroxyl group of some compound such
 as an alcohol. A substance containing a glycosidic bond is a
 glycoside.
 
-# Rearrangement reaction
+## Rearrangement reaction
 
 A rearrangement reaction is a broad class of organic
 reactions where the carbon skeleton of a molecule is
 rearranged to give a structural isomer of the original
 molecule.
 
-# Ethoxylation
+## Ethoxylation
 
 Ethoxylation is a chemical reaction in which ethylene oxide
 adds to alcohols and phenols. The process converts the group
@@ -2139,7 +2092,7 @@ Such compounds are called alcohol ethoxylates.
 
 In addition to alcohols, amines and phenols are commonly ethoxylated.
 
-# 1,2-rearrangement
+## 1,2-rearrangement
 
 A 1,2-rearrangement or 1,2-migration or 1,2-shift or
 Whitmore 1,2-shift [1] is an organic reaction where a
@@ -2147,7 +2100,7 @@ substituent moves from one atom to another atom in a
 chemical compound. In a 1,2 shift the movement involves two
 adjacent atoms but moves over larger distances are possible.
 
-# Pericyclic reactions
+## Pericyclic reactions
 
 In organic chemistry, a pericyclic reaction is a type
 of organic reaction wherein the transition state of the
@@ -2155,9 +2108,12 @@ molecule has a cyclic geometry, and the reaction progresses
 in a concerted fashion. Pericyclic reactions are usually
 rearrangement reactions.
 
+Photon $hv$ can drive pericyclic reactions,
+selection rules reversed.
+
 # iupac
 
-# functional group priority
+## functional group priority
 
 1) Cations
 2) Carboxylic acids
@@ -2169,7 +2125,7 @@ rearrangement reactions.
 8) hydroperoxides
 9) amines
 
-# organic
+## organic
 
 -   substituents. Functional groups attacked
 to the main carbon chain.
@@ -2177,12 +2133,12 @@ to the main carbon chain.
 longest possible continuous chain.
 -   Chemical ending. Denotes what type of molecule it is.
 
-# inorganic
+## inorganic
 
 -   cation
 -   anion
 
-## coordination complexes
+### coordination complexes
 
 Cation comes before the anion.
 
@@ -2190,8 +2146,8 @@ Ligands are listed alphabetically (by name, not prefix)
 and come after the metal.
 
 Anionic ligands get an -o suffux (e.g. chloro for Cl~-~),
-neutral ligands keep their normal name exept for H_2_O (aqua)
-and NH_3_ (ammine).
+neutral ligands keep their normal name exept for \ce{H2O} (aqua)
+and \ce{NH3} (ammine).
 
 Metals in complex cations keep their normal name.
 
