@@ -1,4 +1,3 @@
-m4_sinclude(◣head.mfpx◢)
 
 Modern chemistry is thoroughly atomistic. All substances are thought to be composed
 of small particles, or atoms, of the Periodic Table's elements. 
@@ -113,14 +112,11 @@ A **chiral** molecule lacks an improper rotation axes.
 In materials science, **polymorphism** is the ability of a solid material to
 exist in more than one form or crystal structure.
 
-# Macroscopic concepts
-
-Thermodynamic equilibrium.
-Phase transition.
-Solubility.
-Reactivity.
-
-# Organic chemistry
+Macroscopic concepts:  
+Thermodynamic equilibrium  
+Phase transition  
+Solubility  
+Reactivity  
 
 **Aromatic** compounds contain an aromatic-ring configuration of atoms, such as benzene, whereas
 **aliphatic** compounds do not.
@@ -407,15 +403,15 @@ Synthesis of Teflon.
 
 \ce{CHClF2} (CFC-22, Ozon killer)
 
-# Electronegativity
+Electronegativity:
 
 \ce{H} 2.1
 
-\ce{B} 2.0
-\ce{C} 2.5
-\ce{N} 3.0
-\ce{O} 3.5
-\ce{F} 4.0
+\ce{B} 2.0\quadd
+\ce{C} 2.5\quadd
+\ce{N} 3.0\quadd
+\ce{O} 3.5\quadd
+\ce{F} 4.0\quadd
 
 # Molecules
 
@@ -474,7 +470,9 @@ Low molecular weight ("small") aldehydes can undergo trimerization to form six m
 systems, or polymerize to yield polyethers.
 
 \minisec{ketone}
-\ce{RC(=O)R^'}, acetone \chemfig{\ce{H3C}-[1](=[2]O)-[7]\ce{CH3}}
+\ce{RC(=O)R^'}
+
+acetone \chemfig{\ce{H3C}-[1](=[2]O)-[7]\ce{CH3}}
 
 Organic compounds containing the carbonyl functional group can be classified as aldehydes or
 ketones depending on the relative position of the carbonyl moiety. In aldehyde the carbonyl is a
@@ -655,6 +653,10 @@ Nitrogruppe \ce{-NO2}
 Carbonylgruppe \ce{R=C=O}
 
 Carboxylgruppe (carboxy group) \chemfig{-C(=[1]O)-[7]\ce{OH}}.
+
+A carboxylic acid is an organic compound that contains a
+carboxyl group (C(O)OH).[1] The general formula of a carboxylic acid is
+R–C(O)OH, with R referring to the rest of the (possibly quite large) molecule. 
 
 Carbamoylgruppe ist in der Chemie eine Bezeichnung für die
 Atomgruppierung –CO–NH2 in systematischen Namen gemäß
@@ -1265,14 +1267,22 @@ Kaliumsalze von Fettsäuren.
 
 # Ester
 
-Esters contain carbonyl (C=O) and ether (O-C) dipoles arising from covalent bonding between
-electronegative oxygen atoms and electronically neutral carbon atoms. Because of the π-bonding
-arrangement of the carbonyl (C=O), this is the stronger of the two dipoles. The presence of these
-dipoles allows esters to act as hydrogen-bond acceptors. Thus esters can participate in hydrogen
-bonding with water and other protic solvents; the oxygen atoms can accept hydrogen bonds from
-water. As a result the water solubility of esters is greater than that of corresponding hydrocarbons.
+Säure + Alcohol -> Ester
 
-The presence of a carbonyl (C=O) and ether (O-C) dipole renders the "central" carbonyl carbon of
+Esters contain carbonyl (C=O) and ether (O-C) dipoles arising from covalent bonding between
+electronegative oxygen atoms and electronically neutral carbon atoms. Because
+of the π-bonding
+arrangement of the carbonyl (C=O), this is the stronger of the two dipoles. The
+presence of these
+dipoles allows esters to act as hydrogen-bond acceptors. Thus esters can
+participate in hydrogen
+bonding with water and other protic solvents; the oxygen atoms can accept
+hydrogen bonds from
+water. As a result the water solubility of esters is greater than that of
+corresponding hydrocarbons.
+
+The presence of a carbonyl (C=O) and ether (O-C) dipole renders the "central"
+carbonyl carbon of
 an ester electron deficient; it is an electrophilic carbon atom.
 
 -oic acid -> -oate
@@ -2213,3 +2223,1404 @@ print(xtable(el, caption="xtable",style="html"), sanitize.text.function = functi
 '|r
 ◢)
 
+# Phasen
+
+Als Sublimation, seltener auch Sublimierung (von
+lat. sublimis = ‚hoch in der Luft befindlich‘,
+‚erhaben‘), bezeichnet man in der Thermodynamik den
+Prozess des unmittelbaren Übergangs eines Stoffes vom
+festen in den gasförmigen Aggregatzustand, ohne sich vorher
+zu verflüssigen.
+
+# Polymers
+
+An **oligomer**
+is a molecular complex
+that consists of a few monomer units, in contrast to a
+polymer, where the number of monomers is, in principle,
+not limited. Dimers, trimers, and tetramers are, for
+instance, oligomers composed of two, three and four
+monomers, respectively.
+
+Polyethylen (schwarze Abwasserleitungen)  
+Polypropylen  
+Polytetrafluorethen (Teflon)  
+
+# Polyvinylacetate (PVAc):
+
+vinyl acetate
+(ethenyl acetate)
+
+\chemfig{
+           % 1
+     -[:30]% 2
+              (
+         =[:90]O% 3
+              )
+    -[:330]O% 4
+     -[:30]% 5
+    =[:330]% 6
+}
+
+Polymerisiert zu polyvinyl acetate (PVA).
+
+Es wird als Bindemittel in Anstrichen und Lacken verwendet. Weitere Verwendung findet
+der Kunststoff als Weißleim (Holzleim) oder Klebstoff.
+
+Copolymere:  
+ethylene-vinyl acetate (EVA),
+vinyl acetate-acrylic acid (VA/AA),
+polyvinyl chloride acetate (PVCA),
+
+polyvinylpyrrolidone (PVP).
+PVP in Lösung hat hervorragende Benetzungsfähigkeit und bildet einen Film.
+
+# Chloropren-Kautschuk (CR)
+
+Latex: Kautschukmilch.
+
+Chloropren-Kautschuk, auch Polychloropren oder  
+Chlorbutadien-Kautschuk, ist
+ein Synthesekautschuk, der unter anderem im
+Automobilbau und für isolierende Sportbekleidung eingesetzt wird. Im deutschen Sprachraum ist er
+unter dem Markennamen Neopren bekannt. Neopren ist eine Marke des Unternehmens DuPont,
+Handelsnamen anderer Hersteller sind z. B. Baypren von Lanxess.
+
+Die Herstellung erfolgt
+durch Polymerisation von 2-Chlor-1,3-butadien (Chloropren).
+
+# Drei Kunststoffkategorien
+
+## Elastomer, Elaste
+
+Polymer that displays rubber-like elasticity.
+Wenig vernetzte Makromoleküle.
+
+Polyvinylchlorid weich
+
+Silicon
+
+## Duroplaste (Duromere)
+
+Stark vernetzte Makromoleküle.
+
+Phenolharz.
+
+Epoxidharz.
+
+Polyurethan.
+
+Harnstoffharz
+
+## Thermoplastic (Plastomere)
+
+Fadenmoleküle, nicht vernetzt.
+Stoff ist thermoplastisch formbar.
+
+Poly(vinyl acetate) (PVA).
+
+Poly(methyl methacrylate) (Plexiglas, PMMA).
+
+Acrylonitrile-butadiene-styrene (dt. -styrol) (ABS).
+Lego bricks.
+
+Polyvinylchlorid hart.
+
+Polyethylen.
+
+Polystyrol.
+
+Polypropylen.
+
+Acrylester-Styrol-Acrylnitril (ASA).
+Stuhl "Panton" von Verner Panton.
+
+# Copolymere
+
+When two or more different monomers unite together to 
+polymerize, their result is called a copolymer and its process is called copolymerization.
+
+The following examples refer to a two component system, in which one monomer is designated A and the other B.
+
+Statistical Copolymers:  
+Also called random copolymers. Here the monomeric units are
+distributed randomly, and sometimes unevenly, in the polymer
+chain: -ABBAAABAABBBABAABA-.
+
+Alternating Copolymers:  
+Here the monomeric units are distributed in a regular
+alternating fashion, with nearly equimolar amounts of each
+in the chain: -ABABABABABABABAB-.
+
+Block Copolymers:  
+Instead of a mixed distribution of monomeric units, a long
+sequence or block of one monomer is joined to a block of the
+second monomer: -AAAAA-BBBBBBB-AAAAAAA-BBB.
+
+Graft Copolymers:  
+As the name suggests, side chains of a given monomer
+are attached to the main chain of the second monomer:
+-AAAAAAA(BBBBBBB-)AAAAAAA(BBBB-)AAA-.
+
+Ethylen-Propylen-Copolymer (auch Poly(ethylen-co-propylen)),
+ein Copolymer aus Ethen und Propen (Thermoplast).
+Einsatzgebiete sind zum Beispiel Schmelzklebstoffe und Dichtstoffe.
+Durch seinen relativ hohen Widerstand wird der Kunststoff
+gerne für stromführende Teile wie Kabelummantelungen
+eingesetzt.
+Die Einpolymerisation von Ethylen erhöht die Zähigkeit des
+Polymers gegenüber reinem Polypropylen. Weiterhin können
+funktionalisierte Olefine wie Maleinsäureanhydrid oder
+Diolefine einpolymerisiert werden, um die Funktionalität
+des Kunststoffs zu erhöhen. Die Diolefine können
+gegebenenfalls zur Vernetzung des Polymers beitragen (EPDM:
+Ethylen-Propylen-Diene-Monomere).
+Ethylen-Propylen-Dien-Kautschuk (Kurzzeichen EPDM, Ethylen-Propylen-Dien) ist ein
+terpolymeres Elastomer (Gummi) und somit ein
+synthetischer Kautschuk. EPM (Ethylen-Propylen-Kautschuk) sowie EPDM gehören zu den statistischen Copolymeren mit
+gesättigtem Polymergerüst (nach DIN-Bezeichnung: M-Gruppe; im Gegensatz dazu gehören Kautschuke mit ungesättigter
+Kohlenwasserstoffkette zur R-Gruppe, wie z. B. Natur-Kautschuk NR, Styrol-Butadien-Kautschuk SBR).
+EPDM ist ein gängiger Werkstoff für Schläuche, welche für Dampf oder Heißwasser verwendet werden.
+Aus EPDM werden weiterhin besonders hochwertige Flachdach-
+und Bauwerkabdichtungsbahnen hergestellt. Besondere
+Varianten sind hierbei mit Bitumen oder Vlies beschichtete
+EPDM-Dichtungsbahnen.
+Auch hochwertige Teichfolie wird aus EPDM hergestellt. Sie
+ist für diesen Einsatzzweck besonders geeignet, da sie auch
+bei Kälte hochflexibel, UV-beständig und langlebig ist.
+
+Acrylnitril-Butadien-Styrol-Copolymerisat (Kurzzeichen ABS) ist ein synthetisches
+Terpolymer aus den drei unterschiedlichen Monomerarten
+Acrylnitril, 1,3-Butadien und Styrol und gehört zu den amorphen Thermoplasten. Die Mengenverhältnisse
+können dabei variieren von 15–35 % Acrylnitril, 5–30 % Butadien und 40–60 % Styrol.
+ABS ist in Rohform ein farbloser bis grauer Feststoff.
+Es kann mit Methylethylketon (MEK) und Dichlormethan
+(Methylenchlorid) geklebt werden.
+Beispiele für den Einsatz von ABS sind thermogeformte Teile
+aus Platten und Folien, Automobil- und Elektronikteile,
+Motorradhelme, Spielzeug (zum Beispiel Lego-Bausteine),
+Gehäuse von Elektrogeräten und Computern, Kantenbänder
+(Umleimer) in der Möbelindustrie, Konsumgüter
+mit erhöhten Ansprüchen an die Schlagzähigkeit,
+Musikinstrumente (zum Beispiel Klarinetten- und
+Saxophon-Mundstücke, Ukulelen-Korpusse oder
+Randeinfassungen von Gitarren) und die Seitenwangen von in
+Sandwichbauweise hergestellten Skiern und Snowboards. In
+3D-Druckern wird ebenfalls ABS verwendet.
+
+# "Latex"
+
+Styrol-Butadien-Kautschuk ist der Ausgangsstoff für die weitaus am meisten hergestellte Variante des
+synthetischen Gummis, im Jahr 2012 sind weltweit rund 5,4 Mio. Tonnen verbraucht
+worden. Sein Kurzzeichen ist SBR, abgeleitet von der englischen Bezeichnung „Styrene Butadiene
+Rubber“. Es ist ein Copolymer aus 1,3-Butadien und Styrol. Seine Herstellung gelang
+erstmals 1929. Damit war es der erste wirtschaftlich nutzbare synthetische Kautschuk. SBR
+ist heute der meistverwendete Synthesekautschuk und findet seine Anwendung in der Herstellung
+von Reifen – besonders von den Laufflächen –, Dichtungen und Transportbändern.
+
+# Melaminharz
+
+Melaminharze (Melamin- Formaldehyd- Kondensationsharze, DIN-Kurzzeichen: MF) sind Kunstharze
+(Kondensationsharze), die auf den Verbindungen Melamin
+und Formaldehyd basieren und zu den Aminoplasten zählen.
+
+Neben den klassischen Melamin- Formaldehyd- Kondensationsharzen werden auch
+modifizierte Melaminharze, wie Melamin- Phenol- Formaldehyd- Harze (DIN-Kurzzeichen: MPF)
+und Melamin- Harnstoff- Formaldehyd- Harze (DIN-Kurzzeichen: UMF) hergestellt.
+
+Melamin wurde 1834 erstmals dargestellt. In Deutschland und der
+Schweiz begann in den Jahren 1936 bis 1938 die großtechnische Melaminharzproduktion. 1957
+kamen Melamin-Phenol-Formaledehyd-Copolykondensate auf den Markt.
+
+Melaminharze werden zur Herstellung von Formteilen mit Füllstoffen (40–50 %) für elektrische
+Isolierteile, Schalterteile, Essgeschirr, Beschläge von Kochgeschirr
+verwendet. Als Schichtpressstoffe, beispielsweise mit Papier,
+Glasfasern oder Baumwollgewebe, werden sie für Möbel- und Türbeschichtungen verwendet. Vorkondensate werden
+als Leim- oder Lackharze (Einbrennlacke) genutzt.
+Eine weitere Verwendung findet Melaminharz bei
+der Herstellung von Tischtennisplatten. Wetterfeste Tischtennisplatten werden inzwischen zum größten Teil mit
+Melaminharzoberflächen gefertigt.
+
+# Aminoplast
+
+Harnstoff-Formaldehyd (Harnstoffharz, UF-Harz), Melamin-Formaldehyd-Harze (MF-Harze).
+
+Herstellung: Polykondensation von Formaldehyd mit Harnstoff (unter Zugabe von Salzsäure) oder Melamin.
+
+Der Großteil der Aminoplaste wird als Klebstoff in der Holzwerkstoff-Industrie (z. B.
+in der Spanplatte als „Spanplattenleim“) und als Isoliermaterial eingesetzt.
+
+# Polyurethan
+
+Z.B. Moltopren.
+
+Polyurethane (Kurzzeichen: PU oder PUR) sind Kunststoffe oder Kunstharze, die aus der Polyadditionsreaktion von
+Dialkoholen (Diolen) beziehungsweise Polyolen mit Polyisocyanaten entstehen. Charakteristisch für Polyurethane ist die
+Urethan-Gruppe \ce{-NH-CO-O-}.
+
+Werden Verbindungen mit zwei Isocyanat-Gruppen
+(Diisocyanate) mit zweiwertigen Alkoholen (Diolen) zur
+Reaktion gebracht, so laufen Polyadditions-Reaktionen
+ab und es entstehen die technisch vielfältig genutzten
+Polyurethane. Ist gleichzeitig auch noch Wasser (z.
+B. Luftfeuchtigkeit) vorhanden, läuft auch die
+Reaktion über die instabilen Carbamidsäuren ab, die
+unter Kohlenstoffdioxid-Abspaltung zerfallen. Das
+hierbei entstehende Gas ist für die Schaumbildung bei
+Polyurethanschäumen verantwortlich. Das gleichzeitig
+entstehende Amin wiederum kann, mit
+einem weiteren Isocyanat zu einer Harnstoffverbindung
+reagieren. Bei der Härtung von Polyisocyanaten mit Wasser
+werden also Polyharnstoffe gebildet. So lassen sich auch
+einkomponentige Produkte (Lacke, Klebstoffe, Schäume)
+formulieren, die das zur Härtung erforderliche Wasser als
+Wasserdampf aus der Umgebungsluft beziehen. Dünne Schichten
+härten ohne Aufschäumen aus, soweit das Basismaterial
+eine genügende Durchlässigkeit für Kohlendioxid
+besitzt. Auf Grund der Reaktivität der Isocyanate haften
+die Polyurethanbeschichtungen an den meisten Materialien
+sehr gut. Deshalb werden polymere Isocyanate auch als
+Haftvermittler oder Primer für andere Beschichtungen
+verwendet.
+
+Die Hauptanwendung der Diisocyanate und blockierten
+Isocyanate stellt die Synthese der Polyurethane dar. Die
+wichtigsten Vertreter der Diisocyanate sind:
+
+Toluol-2,4-diisocyanat (TDI)  
+Diphenylmethandiisocyanat bzw. Methylendiphenyldiisocyanat (MDI)  
+Hexamethylendiisocyanat (HDI, HMDI)  
+Polymeres Diphenylmethandiisocyanat (PMDI)  
+Isophorondiisocyanat (IPDI)  
+4,4’-Diisocyanatodicyclohexylmethan (H12MDI)  
+
+Die beiden letztgenannten aliphatischen Diisocyanate
+und ihre Derivate finden hauptsächlich in hochwertigen
+Polyurethan-Lacksystemen Verwendung.
+
+Isocyansäure, Methylisocyanat und andere Isocyanate sind sehr giftig.
+
+Eine der wichtigsten Anwendungen von Polyurethanen ist der Einsatz in Lacken und
+Beschichtungen. Hier werden Polyurethane wegen ihrer guten Haftungseigenschaften als Grundierungen und wegen
+ihrer hohen Beständigkeit gegen Lösemittel, Chemikalien und Witterungseinflüsse als Deck- und Klarlacke
+in vielen Anwendungsbereichen verwendet. Hierzu gehören z. B. auch Bandbeschichtungs-Lacke und Beschichtungen
+für Fußböden.
+Zur Anwendung kommen flüssige Systeme, wie
+feuchtigkeitshärtende Prepolymere, 2-Komponenten-Systeme, High Solids, Polyurethan-Lösungen
+und Polyurethandispersionen, aber auch Feststoffe, z. B. Granulate (TPUs) oder Pulver, die
+aufgeschmolzen oder gelöst werden.
+
+Vernetzungsgrad und eine variierbare Engmaschigkeit der Vernetzung führen zu Kunststoffen, die Duroplaste,
+Thermoplaste oder Elastomere sein können. 
+
+Polyisocyanate sind organische Verbindungen, die zwei oder mehrere Isocyanatgruppen (-\ce{N=C=O}) enthalten.
+
+Isocyanate sind die Ester der unbeständigen Isocyansäure.
+Methylisocyanat (\ce{CH3–N=C=O}) ist der einfachste Ester der Isocyansäure.
+
+Isocyansäure: \ce{HN=C=O}.
+
+Isocyanic acid is the simplest stable chemical compound that contains carbon, hydrogen,
+nitrogen, and oxygen, the four most commonly found elements in organic chemistry and biology.
+
+A carbamate is an organic compound derived from carbamic
+acid (NH2COOH). A carbamate group, carbamate ester (e.g.,
+ethyl carbamate), and carbamic acids are functional
+groups that are inter-related structurally and often are
+interconverted chemically. Carbamate esters are also called
+urethanes.
+
+\chemfig{
+               O% 2
+         =[:90]% 1
+                  (
+             -[:30]{O}{^{-}}% 4
+                  )
+    -[:150,,,2]H_2N% 3
+}
+
+# Phenoplaste
+
+Phenoplaste (DIN-Kurzzeichen: PF) sind duroplastische Kunststoffe, die auf Basis von Phenolharzen durch
+Aushärtung hergestellt werden. Phenolharze (PF-Harze, Phenol-Formaldehyd-Harze)
+sind Kunstharze (Reaktionsharze), die durch Polykondensation
+aus Phenolen und Aldehyden hergestellt werden.
+
+Phenoplaste zählen zu den ersten Kunststoffen. Der erste im großen Maßstab produzierte
+Phenoplast ist das 1907 erfundene Phenol-Formaldehyd-Kondensationsharz, das unter
+dem Warenzeichen Bakelit vermarktet und jahrzehntelang in vielen Bereichen eingesetzt wurde. Phenoplaste
+sind wegen ihrer Temperaturbeständigkeit, Oberflächenhärte und dem günstigen Preis auch heute die
+wichtigsten Duroplaste.
+
+# Aniline
+
+Aniline, phenylamine or aminobenzene is a toxic organic compound with the formula
+C6H5NH2. Consisting of a phenyl group attached to an amino group, aniline
+is the prototypical aromatic amine. Its main use is in the manufacture
+of precursors to polyurethane and other industrial chemicals
+
+\chemfig{
+              NH_2% 7
+    -[:180,,1]% 4
+      =_[:240]% 3
+       -[:180]% 2
+      =_[:120]% 1
+        -[:60]% 6
+            =_% 5
+                 (
+           -[:300]% -> 4
+                 )
+}
+
+Many analogues of aniline are known where the phenyl group is further
+substituted. These include toluidines, xylidines, chloroanilines, aminobenzoic acids, nitroanilines, and many others. 
+
+# Polyester
+
+Aliphatisch, aromatic.
+
+Polyester is a category of polymers that contain the
+ester functional group in their main chain.
+
+Polylactic acid (PLA).
+Ring-opening polymerization of lactide.
+
+Polyethylene terephthalate (PET).
+Polycondensation of terephthalic acid with ethylene glycol.
+
+Polytrimethylene terephthalate (PTT).
+Polycondensation of terephthalic acid with 1,3-propanediol.
+
+Polybutylene terephthalate (PBT).
+Polycondensation of terephthalic acid with 1,4-butanediol.
+
+Polyethylene naphthalate (PEN).
+Polycondensation of at least one naphthalene dicarboxylic acid with ethylene glycol.
+
+# Alkydharz
+
+Alkyd resins are branched polyesters made by reacting dicarboxylic acids or
+anhydrides, polyols such as glycerol or pentaerythritol, and long-chain unsatu-
+rated monocarboxylic fatty acids derived from natural oils (e.g., linseed oil, soya
+oil, or dehydrated castor oil). The unsaturations present in fatty acid chains are
+susceptible to undergo oxidative crosslinking by air oxygen in the presence of
+catalytic amounts of siccatives, such as metal salt of organic acids. Alkyd resins
+are therefore well suited to applications such as air-drying varnishes or archi-
+tectural paints, typically in solvent-based formulations. Their low cost and great
+versatility make them the largest type of coatings produced worldwide.
+
+Alkyd resin synthesis: This synthesis consists of two steps. In the first step, a
+triglyceride oil is reacted at ca. 250 ◦C with polyols, such as glycerol or pentaery-
+thritol, in the presence of a basic catalyst to form a monoglyceride. In the second
+step, phthalic anhydride, with or without another dibasic acid such as maleic
+anhydride, is added to the reaction medium and reacted at high temperature. The
+resulting product is a branched polyester.
+Soya oil, 88.6 g, 20.0 g of pentaerythritol, and 0.06 g of lithium hydroxide
+monohydrate are weighed into a 250-mL three-necked round-bottom flask fitted
+with a magnetic stirrer, a Dean–Stark separator, and nitrogen inlet and outlet. The
+reaction mixture is heated to 250 ◦C for 30 min under nitrogen,
+then cooled to 200 ◦C. Phthalic anhydride, 34.6 g, 0.70 g of maleic anhydride,
+and 8.0 g of xylene are added. The reaction mixture is heated to 230 ◦C and
+the toluene–water azeotrope is removed by distillation.
+After cooling to room temperature, 52 g of white spirit is added.
+
+Cure of alkyd resin: A varnish is prepared by mixing 100 g of the alkyd resin
+prepared above, 0.05 g of Co(II) 2-ethylhexanoate, 0.05 g of calcium 2-ethyl-
+hexanoate, and 0.02 g of lead 2-ethylhexanoate. This mixture is held for 24 h in
+a closed flask before use. A thin layer of this varnish, applied on a metal plate,
+forms a hard, glossy coating after 24 h drying at room temperature.
+
+# Celluloseacetat
+
+Celluloseacetat zählt zu den ältesten thermoplastischen
+Kunststoffen und wird als Derivat des Naturstoffes Cellulose
+zu den Biokunststoffen gerechnet
+
+Celluloseacetat (Kurzzeichen CA, früher Acetylzellulose)
+ist eine Sammelbezeichnung für die Essigsäureester
+der Cellulose. Durch Einwirkung von Eisessig und
+Essigsäureanhydrid auf Cellulose (meist Zellstoff
+oder Baumwolllinters) unter Beisein von Katalysatoren
+(Schwefelsäure oder Zinkchlorid) muss dabei zuerst das
+Cellulosetriacetat (Kurzzeichen CTA), das sogenannte
+Primäracetat, hergestellt werden, bei dem die drei
+Hydroxygruppen je Glucosebaustein völlig verestert sind.
+Das ist notwendig, da eine partielle Veresterung auf
+direktem Weg nur zu Gemischen von nicht und vollständig
+acetylierter Cellulose führt. Da aber für die meisten
+Anwendungen das Cellulosetriacetat wegen seiner begrenzten
+Löslichkeit und schlechten Weichmacherverträglichkeit
+ungünstig ist, wird durch Wasserzugabe eine partielle
+Verseifung des Cellulosetriacetats vorgenommen, wobei je
+nach Temperatur und Einwirkungszeit Essigsäuregehalte
+von 41 bis 62,5 % im Ester eingestellt werden können.
+So werden verschiedene Typen von Sekundäracetaten (z.
+B. 2 ½ -Acetat und Diacetat) erhalten. In Abhängigkeit
+vom Veresterungsgrad verändert sich die Viskosität der
+Celluloseacetat-Typen (je höher der Veresterungsgrad,
+desto höher die Viskosität), wodurch sich ein breites
+Eigenschaftsspektrum und damit Produktspektrum erreichen
+lässt.
+
+Celluloseacetat wird vor allem zu Textilfasern und Geweben verarbeitet.
+
+# Acrylharz
+
+Acrylic acid:
+\chemfig{
+              % 1
+       =[:330]% 2
+        -[:30]% 3
+                 (
+           =[:330]O% 4
+                 )
+    -[:90,,,1]OH% 5
+}
+
+Poly(acrylic acid) (PAA or Carbomer) is generic name for
+synthetic high molecular weight polymers of acrylic acid.
+They may be homopolymers of acrylic acid, crosslinked with
+an allyl ether pentaerythritol, allyl ether of sucrose or
+allyl ether of propylene. In a water solution at neutral pH,
+PAA is an anionic polymer, i.e. many of the side chains of
+PAA will lose their protons and acquire a negative charge.
+This makes PAAs polyelectrolytes, with the ability to absorb
+and retain water and swell to many times their original
+volume. Dry PAAs are found in the market as white and fluffy
+powders. Carbomer codes (910, 934, 940, 941 and 934P) are an
+indication of molecular weight and the specific components
+of the polymer. For many applications PAAs are used in form
+of alkali metal or amonium salts, e.g. sodium polyacrylate.
+Sodium polyacrylate, also known as waterlock, is a sodium
+salt of polyacrylic acid with the chemical formula
+[-CH2-CH(CO2Na)-]n and broad application in consumer
+products. It has the ability to absorb as much as 200 to 300
+times its mass in water. Sodium polyacrylate is an anionic
+polyelectrolyte with negatively charged carboxylic groups
+in the main chain. While sodium neutralized polyacrylic
+acids are the most common form used in industry, there are
+also other salts available including potassium, lithium and
+ammonium.
+
+Acryl (selten: Akryl) ist eine Sammelbezeichnung von
+chemischen Substanzen, die sich durch die Acrylgruppe
+(CH2=CH–COR) auszeichnen (wie z. B. die Acrylsäure oder
+Acrylsäureester) beziehungsweise Polymere dieser Stoffe.
+
+Polymere der Acrylsäureester, allgemein als Polyacrylate
+bezeichnet, finden Anwendung u. a. als Bindemittel für
+Farben und Lacke, Spritzgussformmassen, Klebstoffe sowie als
+Werkstoff im Dentalbereich.
+
+Ungesättigte Acrylate sind Hauptkomponenten in
+strahlenhärtenden Farben, Lacken und Klebstoffen
+(Strahlenhärtung). Die chemische Vernetzung,
+Polymerisation, verläuft über die Acrylsäuregruppe. Diese
+Art von Farben wird hauptsächlich im industriellen Bereich
+eingesetzt.
+
+Acrylfarben für den Heimwerkerbedarf enthalten gesättigte
+Polyacrylate, die entweder in organischen Lösemitteln
+gelöst sind oder – umweltfreundlicher – als Dispersion
+in Wasser vorliegen.
+
+Acryl wird unter anderem in Form von Acrylfugenmasse
+verwendet, die zum Füllen und Abdichten von Dehnungsfugen
+oder Spannungsrissen dient (Fugendichtung). Im Gegensatz
+zu Silikon ist Acryl geruchsneutral und kann später
+überstrichen werden. Zudem ist ein Aufbau in mehreren
+Schichten möglich. Jedoch besitzt Acryl eine geringere
+Haftung und Elastizität als Silikon und ist nur bedingt
+wasserabweisend, so dass sich in Nassbereichen eine
+Verfugung mit Silikon empfiehlt.
+
+Acrylamid wird zur Herstellung von Polymeren und Farbstoffen verwendet. 
+
+\chemfig{
+              % 1
+       =[:330]% 2
+        -[:30]% 3
+                 (
+           =[:330]O% 4
+                 )
+    -[:90,,,1]NH_2% 5
+}
+
+Acrylharze sind Kunstharze und gelten als besonders haltbar.
+Acrylharze basieren auf Polymerisaten oder Copolymerisaten
+der Acrylsäure, Methacrylsäure und deren Estern. Sie
+werden oft mit anderen ungesättigten Monomeren, wie
+Styrol oder Acrylnitril copolymerisiert. Die Harze können
+thermisch selbsthärtend sein, wenn sie funktionelle
+Gruppen, wie z. B. Hydroxymethylgruppen tragen oder sie
+werden zur Härtung mit anderen Harzen, wie Epoxidharzen
+oder Aminoplasten vernetzt.
+
+Acrylharze werden in vielen Klebstoffen und Lacken
+verwendet. Ein Anwendungszweck ist auch die
+Gebäudeabdichtung. Generell besitzen Acrylharze ein
+sehr breites Anwendungsspektrum in der Lackindustrie.
+Acrylharze sind, einmal ausgehärtet, dauerhaft haltbar
+und fest, sie haben eine gute Optik, guten Glanz und hohe
+Bewitterungsbeständigkeit. Acrylharz in Dichtstoffen ist
+außerdem überstreichbar, weshalb zur Abdichtung von Rissen
+in der Wand Acryl gegenüber Silikon-Dichtstoffen bevorzugt
+wird. Die ausschließliche Verwendung von reinen Acrylharzen
+auf Metall bietet nur mäßigen Korrosionsschutz. Ein
+einwandfreies Ergebnis wird durch eine entsprechende
+Grundierung erzielt. Auch dafür kommen Acrylharze zum
+Einsatz, diese werden aber mit entsprechenden Additiven
+(Haftvermittlern und Pigmenten) versehen. Anschließend wird
+mit Acrylharz überschichtet, auch hier ist wiederum der
+Einsatz von entsprechenden Füllstoffen notwendig. Dieses
+System findet breite Anwendung, z. B. bei Stahlbrücken.
+Bei der Verarbeitung sollten die Sicherheitshinweise
+beachtet werden. Austretende Monomere können Kopfschmerzen
+verursachen.
+
+Methyl methacrylate,
+methyl 2-methylpropenoate (MMA):
+
+\chemfig{
+           % 1
+    -[:300]% 2
+              (
+        =[:240]% 3
+              )
+          -% 4
+              (
+        =[:300]O% 5
+              )
+     -[:60]O% 6
+          -% 7
+}
+
+Poly(methyl methacrylate) (Plexiglas, Arcylglas, PMMA).
+Acrylic paint essentially consists of PMMA suspended in water; however since PMMA
+is hydrophobic, a substance with both hydrophobic and hydrophilic groups needs to
+be added to facilitate the suspension.
+
+Polymethylmethacrylat.
+PMMA ist jenseits von 100 °C plastisch verformbar und
+diese Verformung ist thermisch reversibel. Es ermöglicht
+eine gute spanabhebende Bearbeitung, lässt sich sehr
+gut mit CO2-Lasern schneiden oder gravieren und ist
+kratzunempfindlicher als andere Thermoplaste. Verbindungen
+durch Kleben oder Schweißen sind möglich. Es transmittiert
+Licht besser als Mineralglas, ist gut einfärbbar,
+witterungs- und alterungsbeständig, beständig gegen
+Säuren, Laugen mittlerer Konzentration, Benzin und
+Öl. Ethanol, Aceton und Benzol greifen PMMA jedoch
+an. Daher dürfen Acrylglasflächen auch nicht mit
+Alkohol oder Lösungsmitteln gereinigt werden, da sonst
+Spannungsrisskorrosion entsteht.
+
+# Styrol
+
+Phenylethene:
+\chemfig{
+            % 1
+      =[:60]% 2
+           -% 3
+    =^[:300]% 4
+           -% 5
+     =^[:60]% 6
+     -[:120]% 7
+    =^[:180]% 8
+               (
+         -[:240]% -> 3
+               )
+}
+
+Weltweit produzierte die chemische Industrie im Jahr 2010 etwa 25 Millionen Tonnen Styrol.
+
+Polystyrol: Für Gebrauchsgegenstände wird es in
+Form von Mischpolymerisaten eingestzt.
+Polystyrolschaumstoff ("Styropor")
+
+Styrol ist zudem ein wichtiger Rohstoff bei der Fertigung
+von ungesättigten Polyesterharzen (UP-Harze). Hierin ist
+es zu 50–70 % enthalten um bei der Aushärtung gemeinsam
+mit den Maleinsäure-haltigen Polyestern zu polymerisieren
+(Copolymerisation).
+
+# Polyvinylchlorid (PVC)
+
+Polyvinyl chloride (PVC) is made by polymerization of the
+monomer vinyl chloride (chloroethene) \ce{H2C=CH-Cl} (krebserregend).
+
+Lacke Trocknen schnell.
+Wasser-, wetter- und chemikalienbeständig.
+Für Korrosionsanstriche, Unterwasseranstriche und
+chemikalienbeständige Anstriche.
+
+# Polyamides
+
+Aliphatisch, aromatisch.
+
+Polyamides (PAs) are high-molecular-weight materials containing amide units;
+the hydrocarbon segments between the amide groups can be aliphatic, partially
+aromatic, or wholly aromatic. The type of hydrocarbon segment used has an
+effect on the chain flexibility and structural regularity; this is important for the
+formation of the crystalline phase. Polyamides, in common with polypeptides,
+contain an amide group and are often called Nylons, the trade name given to
+them by DuPont.
+
+A primary amino group (-NH2) often functions as the starting
+point for two polymeric chains, especially in the case of
+polyether polyols.
+
+Polymeric polyols are generally used to produce other
+polymers. They are reacted with isocyanates to make
+polyurethanes used to make mattresses, foam insulation for
+appliances (refrigerators and freezers), home and automotive
+seats, elastomeric shoe soles, fibers (e.g. Spandex, Elastan), and
+adhesives.
+
+# Phenolharz
+
+Phenolic resins comprise a large family of oligomers and polymers,
+which are various products of phenols reacted with formaldehyde.
+
+Base-catalysed phenol-formaldehyde resins are made with a
+formaldehyde to phenol ratio of greater than one (usually
+around 1.5). These resins are called resoles. Phenol,
+formaldehyde, water and catalyst are mixed in the desired
+amount, depending on the resin to be formed, and are then
+heated. The first part of the reaction, at around 70 °C,
+forms a thick reddish-brown tacky material, which is rich in
+hydroxymethyl and benzylic ether groups.
+Resols are major polymeric resin materials widely used for
+gluing and bonding building materials. Exterior plywood,
+oriented strand boards (OSB), engineered laminated composite
+lumber (LCL) are typical applications.
+
+# Phthalsäure
+
+\chemfig{
+            O% 8
+     =[:120]% 7
+               (
+     -[:180,,,2]HO% 9
+               )
+      -[:60]% 5
+           -% 4
+               (
+         -[:300]% 10
+                   (
+             -[,,,1]OH% 12
+                   )
+         =[:240]O% 11
+               )
+     =^[:60]% 3
+     -[:120]% 2
+    =^[:180]% 1
+     -[:240]% 6
+               (
+        =^[:300]% -> 5
+               )
+}
+
+o-Phthalsäure wurde 1836 von Auguste
+Laurent bei der Oxidation von
+1,2,3,4-Tetrachlor-1,2,3,4-tetrahydronaphthalin mit
+Salpetersäure entdeckt, trägt also ihren Namen nach
+diesem Kohlenwasserstoff.
+
+o-Phthalsäure wurde lange Zeit nur durch Oxidation von
+Naphthalin hergestellt; heute allerdings wird bei weitem
+überwiegend o-Xylol als Rohstoff verwendet. Ebenso wird
+Isophthalsäure aus m-Xylol und Terephthalsäure aus p-Xylol
+hergestellt.
+
+o-Phthalsäure ist Rohstoff für die Herstellung von
+Polyesterharzen. Dabei wird die Phthalsäure oder meist
+deren Anhydrid mit mehrwertigen Alkoholen, z. B. Glycerin,
+verestert. Durch Verkochung von mehrfach ungesättigten
+Pflanzenölen wie Leinöl mit Phthalsäure und mehrwertigen
+Alkoholen werden Alkydharze durch Umesterung hergestellt.
+Phthalsäure ist auch Ausgangsstoff zur Darstellung vieler
+Farbstoffe, Farbpigmente oder Weichmacher.
+
+# Polymerisationmechanismen
+
+## Polyadditionsharze
+
+2K-Lacke, Reaktionslacke.
+Trocknung durch chemische Reaktion.
+
+Stammlack (Pigmentträger) + Härter.
+
+Polyurethanlack (DD- oder PUR-Lack).
+Epoxidharzlack (EP).
+
+Lösemittelfreie Lacke, die praktisch ohne Schwund aushärten.
+
+Polyaddukt, Umlagerung von Atomen, verschiedene Monomere.
+
+## Polykondensationsharz
+
+Alkydharz ("Kunstharz"), Phenolharz, Harnstoffharz, Melaminharz
+
+Polykondensat, gleiche oder verschiedene Moleküle -> Makromoleküle + Wasser.
+
+## Polymerisationsharz
+
+Polymer, gleiche Monomere verbinden sich.
+
+PVC-, PVA-, Acrylharz-Lacke.
+
+Thermoplastisch  
+Metallgrundierung  
+Lösemittelverdünnbare Boden- und Fassadenfarbe  
+Tiefgrund  
+Kunstofflacke  
+Physikalische Trocknung  
+Zur Herstellung von Kunstharzdispersionen und
+wasserverdünnbaren Kunstharzlacke (Dispersionslack) verwendet.  
+
+# Bisphenol A (BPA)
+
+\chemfig{
+             % 1
+    -[:247.5]% 2
+                (
+        -[:112.5]% 3
+                )
+                (
+          -[:330]% 11
+          =_[:30]% 12
+          -[:330]% 13
+         =_[:270]% 14
+                    (
+          -[:330,,,1]OH% 17
+                    )
+          -[:210]% 15
+         =_[:150]% 16
+           -[:90]% -> 11
+                )
+      -[:210]% 4
+     =_[:270]% 5
+      -[:210]% 6
+     =_[:150]% 7
+                (
+      -[:210,,,2]HO% 10
+                )
+       -[:90]% 8
+      =_[:30]% 9
+                (
+          -[:330]% -> 4
+                )
+}
+
+BPA dient vor allem als Ausgangsstoff zur Synthese polymerer
+Kunststoffe auf der Basis von Polyestern, Polysulfonen,
+Polyetherketonen, Polycarbonaten und Epoxidharzen.
+
+# Lösungsmittel
+
+Lösungs- und Verdünnungsmittel:
+Aus dem Anstrich heraus verdunstende Flüssigkeiten.
+Sie machen ein verarbeitungsfähiges Bindemittel-Lösemittel Gemisch.
+Lösen Stoffe ohne chemische Umsetzung.
+Einstellen der Konsistenz.
+
+Nassschichtdicke.
+Trockenschichtdicke.
+
+Die meisten sind Kohlenwasserstoffe (KWS).
+
+Anorganisch, organisch.
+Wasser ist anorganisch..
+
+Brennbar, nicht brennbar.
+Ungiftig, giftig (narkotisierend).
+
+Niedrig siedend: Siedepunkt unter 100°C.
+Mittel siedend: Siedepunkt zwischen 100 und 150°C.
+Hochsiedend: Siedepunkt über 150°C.
+
+Ausser Wasser und Terpentinöl werden Lösungsmittel
+in der Petrochemie hergestellt.
+
+Solvents work on the principle of "like dissolves like" e.g.
+solvents are chemically much more similar to greases than
+water and can therefore dissolve them more effectively.
+
+With the exception of alcohol, organic solvents are produced
+from oil. The amount of oil used for solvent production is,
+however, relatively low. Only about 1 % of the world's oil
+production is used in solvent production. Many solvents are
+also recycled so that they can be used again.
+
+2-Butoxyethanol
+
+\chemfig{
+              % 1
+        -[:30]% 2
+       -[:330]% 3
+        -[:30]% 4
+       -[:330]O% 5
+        -[:30]% 6
+       -[:330]% 7
+    -[:30,,,1]OH% 8
+}
+
+As a relatively nonvolatile, inexpensive solvent of low
+toxicity, it is used in many domestic and industrial
+products because of its properties as a surfactant (Tensid).
+
+In use since the 1930s, glycol ethers are solvents that
+dissolve both water-soluble and hydrophobic substances.
+
+2-(2-Ethoxyethoxy)ethanol
+
+Hygroskopisch.
+At direct contact it causes drying of skin by leaching fats, and is mildly irritating to the eyes. It is flammable.
+
+\chemfig{
+               % 1
+         -[:30]% 2
+        -[:330]O% 3
+         -[:30]% 4
+        -[:330]% 5
+         -[:30]O% 6
+        -[:330]% 7
+         -[:30]% 8
+    -[:330,,,1]OH% 9
+}
+
+niedrig siedend: unter 100°C
+
+Wasser, Terpentinöl.
+
+Erdöldestilat: Testbenzin
+
+Steinkohleteer-Destilat: Toluol, Xylol, Kunstharzverdünner (Gemisch)
+
+Synthese von Kohlenstoff und Kohlenstoffverbindungen:
+Alkohole, Ester, Chlorwasserstoffe (Mischung).
+Für Spirituslack, Nitrolack, Polyurethanlack.
+
+Wasser.
+Für Leim, Kaseinleim, Wasserglas.
+
+Terpene.
+Für pflanzliche Öle, Wachse.
+
+Alkohol.
+Wasserlöslich.
+Für Schelllack.
+
+Aliphate:
+Aromatenanteil < 25%.
+Streichverdünner,
+für Alkydharzprodukte.
+Benzin, Petrol.
+
+Aromaten.
+für Kunstharz.
+Toluol (Kunstharzspritzverdünner), Xylol (Kunstharzstreichverdünner).
+
+Ester (Alkohol + Essigsäure) (z.B. Ethylacetat).
+Für Nitrocellulose, 2K-Lacke.
+
+Ketone (z.B. Aceton, Methylethylketon).
+Ketogruppe: (=O).
+
+Chlorkohlenwasserstoffe (unbrennbar, wasserlöslich).
+Abbeizpasten. Z.B. Methylenchlorid, Dichlormethan, Tetrachlorethen.
+
+# Dichlormethan
+
+Verboten in Abbeizmitteln.
+Es gibt keinen wirksamen Atemschutz, der vor der Inhalation
+von Dichlormethan schützen kann. Ein wirksamer Atemschutz
+kann nur durch Fremdluftmasken bereitgestellt werden, welche
+im privaten Bereich überhaupt nicht, im Gewerbe nur in
+seltenen Fällen anzutreffen sind.
+Seit Beginn des Einsatzes dichlormethanhaltiger Abbeizer
+kamen nach Angaben der Berufsgenossenschaft der
+Bauwirtschaft (BG BAU) in Europa 30 Menschen ums Leben. Dies
+rührt vor allem daher, dass Dichlormethan im Körper zu
+Kohlenmonoxid abgebaut wird. Bei schlechter Belüftung droht
+daher der Erstickungstod.
+Bei der Verwendung von Dichlormethan-freien Abbeizern muss
+der Arbeitsablauf angepasst werden, da diese langsamer
+wirken. Sie sind aber problematisch auf 2K-Lacken und
+teilweise auf Kunstharzlacken.[14] Bei den Alternativen
+muss auf die Art des Lackes geachtet werden, da diese nicht
+universell wirksam sind.
+
+Dichlormethan dient als Abbeizmittel für Lacke,
+Entfettungsmittel und Extraktionsmittel für Koffein sowie
+als Lösungsmittel für Harze, Fette, Kunststoffe und
+Bitumen.
+
+Folgende Kunststoffe eignen sich zum Kleben mit
+Dichlormethan: Polystyrol, Acrylglas, Polycarbonat,
+Polyethylenterephthalat und Acrylnitril-Butadien-Styrol.
+Dagegen lassen sich Polypropylen und Polyethylen nicht
+kleben, weil diese nicht löslich sind.
+
+# 1-Methoxy-2-propylacetat 
+
+Methoxypropylacetat
+
+1-Methoxy-2-propylacetat wird durch Veresterung von 1-Methoxy-2-propanol mit Essigsäure hergestellt.
+
+Es eignet sich insbesondere für
+Lacke, die Polyisocyanate enthalten. Die Verdunstungszahl
+liegt bei 33. Um Peroxidbildung zu verhindern, wird es mit
+Butylhydroxytoluol (BHT) inhibiert.
+
+# Methoxypropanol
+
+Methoxypropanol wird als Lösungsmittel für Druckfarben, Verdünnungsmittel,
+Veredelungsmittel und zur Herstellung von Lacken verwendet. Es ist ein
+Standardlösemittel bei der Produktion von wasserlöslichen Kunstharzen. 2003
+wurden in der EU ca. 190.000 Tonnen verarbeitet.
+
+Die Verbindung hat eine sehr geringe akute Toxizität, ist gut biologisch
+abbaubar und hat ein geringes Potenzial für die Bioakkumulation.
+1-Methoxy-2-propanol gilt nicht als umweltgefährdender Stoff.
+
+# Ester 
+
+Alkohol (oder Phenol) + Säure
+
+## Glykoletherester
+
+Butylglykolacetate
+
+## Methyl acetate
+
+Essigsäuremethylester ist der Ester aus Essigsäure und
+Methanol. Er wird auch Methylacetat oder nach der neuen
+IUPAC-Nomenklatur Methylethanoat genannt.
+Gilt nicht als VOC.
+
+\chemfig{
+           % 1
+     -[:30]% 2
+              (
+         =[:90]O% 3
+              )
+    -[:330]O% 4
+     -[:30]% 5
+}
+
+Methylacetat ist in Wasser gut löslich mit 319 g/l bei 20 °C.
+
+Flammpunkt (−13 °C)
+
+Essigsäuremethylester wird als Lösungsmittel in z. B. Farben, Lacken und Klebstoffen eingesetzt.
+
+## Ethyl Acetate
+
+In Klebstoffen ist es eines der am häufigsten eingesetzten
+Lösungsmittel. In hoher Konzentration wirkt es als
+Rauschmittel, welches von sogenannten „Schnüfflern“
+verwendet wird, um sich zu berauschen.
+
+# Ether
+
+## Glycolether
+
+### 1-Methoxy-2-propanol
+
+\chemfig{
+           % 1
+     -[:30]% 2
+              (
+     -[:90,,,1]OH% 6
+              )
+    -[:330]% 3
+     -[:30]O% 4
+    -[:330]% 5
+}
+
+(Flammpunkt 38 °C, Zündtemperatur 278 °C)
+
+Es ist ein Standardlösemittel bei der
+Produktion von wasserlöslichen Kunstharzen. 2003 wurden in
+der EU ca. 190.000 Tonnen verarbeitet.
+
+Es entsteht als Nebenprodukt in großen Mengen bei der Herstellung von Hydroxypropylmethylcellulose (HPMC).
+
+### Butylglycol
+
+Ethylenglycolmonobutylether
+
+(Flammpunkt 61 °C, Zündtemperatur 240 °C) 
+
+Die Jahresproduktion in Europa betrug 2003 etwa 161.000 Tonnen.
+
+In kommerziellen Produkten werden 0,008 – 0,012 %
+Butylhydroxytoluol zugefügt um die Bildung von Peroxiden zu
+unterdrücken.
+
+Etwa 60 % der Verbindung wird in Europa für Farben
+und Lacken verwendet, etwa 11 % wird in Wasch- und
+Reinigungsmitteln verwendet
+
+## Tetrahydrofuran (THF)
+
+\chemfig{
+           % 1
+    -[:180]% 2
+    -[:252]% 3
+    -[:324]O% 4
+     -[:36]% 5
+              (
+        -[:108]% -> 1
+              )
+}
+
+## Diethyl ether
+
+Ether
+
+\chemfig{
+           % 1
+     -[:30]% 2
+    -[:330]O% 3
+     -[:30]% 4
+    -[:330]% 5
+}
+
+Diethylether wird auch als Rauschmittel konsumiert. Von
+Mitte bis Ende des 19. Jahrhunderts war Diethylether in
+Irland auf Grund hoher Alkoholpreise das am häufigsten
+verwendete Rauschmittel und wurde in Läden verkauft. Dabei
+wurde der Ether zusammen mit Wasser getrunken. Der Gebrauch
+von Diethylether sank ab 1890, als er als Gift eingestuft
+wurde und nur noch zum Verkauf an Chemiker oder Apotheker
+zugelassen wurde. Außer in Irland war das Ethertrinken
+auch in Schottland, Russland und Norwegen verbreitet. In
+Frankreich wurde Ether mit Cognac, in Michigan (USA) mit
+Whiskey getrunken.
+
+# Ketones
+
+## Acetone
+
+\chemfig{
+          % 1
+    -[:90]% 2
+             (
+       =[:150]O% 3
+             )
+    -[:30]% 4
+}
+
+Hauptsächlich dient es zur Herstellung von
+Polymethylmethacrylat (PMMA), umgangssprachlich als
+Acrylglas oder Plexiglas bezeichnet. Dazu wird das
+Aceton zunächst durch Addition von Blausäure in das
+Acetoncyanhydrin überführt, das im sauren Milieu leicht
+Wasser abspaltet (Mesomeriestabilisierung der Doppelbindung
+aufgrund der Konjugation zur Dreifachbindung der
+Nitrilgruppe). Das dabei entstehende 2-Methylpropennitril
+wird durch Zugabe eines Gemisches aus konzentrierter
+Schwefelsäure und Methanol zu Methylmethacrylat umgesetzt,
+das in einem weiteren Schritt zum Acrylglas polymerisiert
+wird.
+
+Ferner wird Aceton in Kleinmengen als nützliches
+Lösungsmittel für Harze, Fette und Öle, Kolophonium,
+Celluloseacetat sowie als Nagellackentferner und
+Plastikkleber eingesetzt. Des Weiteren wird es zum Entfernen
+von durch Bauschaum entstandenen Verunreinigungen zum
+Beispiel der Reinigung von PU-Schaum-Pistolen eingesetzt. Es
+löst ein Vielfaches seines Volumens an Ethin (Acetylen).
+
+Auf der Haut verursacht Aceton Trockenheit, da es die Haut entfettet.
+
+## Butanone
+
+\chemfig{
+           % 1
+    -[:330]% 2
+     -[:30]% 3
+              (
+        =[:330]O% 4
+              )
+     -[:90]% 5
+}
+
+Methyl Ethyl Ketone (MEK)
+
+2001 wurden global 950.000 Tonnen Butanon verwendet.
+
+# Cycloparaffin
+
+Methylcyclohexan kommt im Erdöl vor. Hergestellt werden
+kann es über Dehydrocyclisierung von n-Heptan. Auf diese
+Weise hergestelltes Methylcyclohexan wird meist weiter zu
+Toluol dehydriert.
+
+# Aliphatische Kohlenwasserstoffe
+
+## Terpentinersatz
+
+White Spirit (UK).
+Terpentinersatz, Terpentinölersatz
+Sangajol
+
+Der Schmelzpunkt liegt bei Minus 15 Grad, der Siedepunkt bei
+153 bis 193 Grad. Dichte 0,788. Flammpunkt höher als 40
+Grad, Zündpunkt ca 235 Grad.
+
+## Testbenzin
+
+Mineral Spirit (US)
+
+"Test" heisst in diesem Falle, dass sein Flammpunkt getestet=geprüft ist
+Flammpunkt 21 Grad. 
+
+Ähnlich wie Terpentinersatz, aber leichter flüchtig, d.h. es verdunstet schneller.
+
+Testbenzine sind raffinierte Benzine aus der Gruppe der
+Schwerbenzine[6], bei denen der Siedepunkt zwischen 130
+und 220 °C liegt und der nach Abel-Pensky (DIN 51755)
+ermittelte Flammpunkt über  21 °C. Die Testbenzine
+werden nach den DIN-Normen 51632-1 und 51632-2[8] –
+abhängig vom Siedebereich – in fünf Gruppen und
+zusätzlich in Normalware und Entaromatisierte Ware[9]
+unterteilt. Testbenzine enthalten flüchtige Organische
+Verbindungen (VOC) mit mittlerer Flüchtigkeit. Der Name
+Testbenzin bezieht sich darauf, dass das Benzin für einen
+bestimmten Bereich (Flammpunkt, Siedebereich) getestet ist.
+
+## Brennspiritus
+
+umgangssprachlich Spiritus, Weingeist, Alkohol,
+vom Chemiker als Ethylalkohol bezeichnet,
+
+Brennspiritus ist mit Methylethylketon, Petrolether,
+Cyclohexan, Phthalsäurediethylester (Diethylphtalat) oder
+ähnlichem versetzter Alkohol, um ihn aus steuerlichen
+Gründen für den menschlichen Genuss unbrauchbar zu machen.
+Die Herstellung erfolgt chemisch aus Steinkohle oder Erdöl,
+sehr oft auch durch Destillation vergorener zuckerhaltiger
+Früchte oder stärkehaltiger Abfälle der Holzindustrie.
+Siedepunkt ca.78 Grad Celsius, Flammpunkt bei 11 Grad.
+Enthält Luft 3 - 12 % Alkohol besteht Explosionsgefahr!
+
+B. ist ein sehr gutes Lösungsmittel für Harze und das einzige Lösungsmittel für Schellack 
+
+Beim Feinschliff von Holz kann mit einem Lappen B. dünn
+aufgetragen werden, wodurch sich die Fasern gut aufstellen,
+ohne dass das Holz zuviel Wasser aufnimmt und quillt.
+B. dient auch zum Anrühren sog. Spiritusbeizen, deren
+Hauptvorteil die kurze Trockenzeit ist und die Vermeidung
+des Aufquellens der Hölzer.
+
+# Aromatische Kohlenwasserstoffe
+
+BTEX oder BTXE ist eine Abkürzung für die aromatischen Kohlenwasserstoffe Benzol, Toluol, Ethylbenzol und die Xylole.
+Die Giftwirkung besteht in Leberschäden und chronischen Nervenschäden. Benzol ist zusätzlich krebserregend.
+
+Die Alkylbenzole sind Abkömmlinge des Benzols, bei dem
+ein oder mehrere Wasserstoffatome nur durch Alkylgruppen
+unterschiedlicher Größe ausgetauscht werden. Sie sind
+eine Untergruppe der aromatischen Kohlenwasserstoffe.
+Der einfachste Vertreter ist das Toluol, bei dem ein
+Wasserstoffatom des Benzols durch eine Methylgruppe ersetzt
+wurde.
+
+## Toluene
+
+Toluol
+
+\chemfig{
+            % 1
+           -% 2
+    =^[:300]% 3
+           -% 4
+     =^[:60]% 5
+     -[:120]% 6
+    =^[:180]% 7
+               (
+         -[:240]% -> 2
+               )
+}
+
+Häufig ersetzt es als Lösungsmittel das giftige Benzol.
+Es ist unter anderem auch im Benzin enthalten.
+
+Toluol kommt im Erdöl und in dem Leichtöl, das bei der
+Steinkohleteerdestillation anfällt, in kleineren Mengen
+vor.
+
+ Flammpunkt bei 6 °C. Der Explosionsbereich liegt zwischen
+1,1 Vol.‑% (42 g/m3) als untere Explosionsgrenze (UEG) und
+7,8 Vol.‑% (300 g/m3) als obere Explosionsgrenze (OEG).
+
+## Xylene
+
+\chemfig{
+            % 1
+     -[:330]% 2
+     =_[:30]% 3
+     -[:330]% 4
+    =_[:270]% 5
+     -[:210]% 6
+    =_[:150]% 7
+               (
+          -[:90]% -> 2
+               )
+     -[:210]% 8
+}
+
+Rohstoffquellen für die Gewinnung der Xylole sind Kohle
+(aus Steinkohlenteer) und Erdöl (durch Cracken), wobei
+Isomerengemische anfallen.
+Xylene exists in three isomeric forms. 
+
+Da der Flammpunkt von Xylol oberhalb von 21 °C liegt, ist
+es in der Praxis neben Butylacetat eines der wichtigsten
+Lösungsmittel für Lacke.
+
+## Ethylbenzol
+
+Es ist wichtiger Ausgangsstoff für die Synthese des Styrols. 
+
+# Paraffin
+
+bezeichnet ein Gemisch aus acyclischen Alkanen (gesättigten
+Kohlenwasserstoffen) mit der allgemeinen Summenformel
+\ce{CnH_{2n+2}}. Die Zahl n liegt zwischen 18 und 32, die molare
+Masse damit zwischen 275 und 600 Gramm pro Mol. Hartparaffin
+schmilzt zwischen 50 und 60 °C, Weichparaffin bei etwa 45
+°C.
+
+Hauptabnehmer von Paraffin ist weltweit die Kerzenindustrie
+(Teelichte, Haushaltskerzen, Dekorationskerzen). Es ist
+preiswerter als das Stearin, das aus tierischen oder
+pflanzlichen Produkten gewonnen wird.
+
+# Verdunstungszahl
+
+Länger als Ethylenether (Äther) = 1.
+
+
+Leichtflüchtig: < 10
+Mittelflüchtig: 10 – 35
+Schwerflüchtig: > 35
+
+Terpentinersatz: 300
+Sangajol: 50
+Xylol: 14
+Ethanol: 9
+Toluol: 6
+
+## Terpene
+
+Die Terpene [tɛʁˈpeːnə] sind eine stark heterogene und
+sehr große Gruppe von chemischen Verbindungen, die als
+sekundäre Inhaltsstoffe in Organismen natürlich vorkommen.
+Sie leiten sich formal vom Isopren ab und zeichnen sich
+dabei durch eine große Vielfalt an Kohlenstoffgerüsten
+und geringere Anzahl an funktionellen Gruppen aus.[1]
+Es sind über 8.000 Terpene und über 30.000 der nahe
+verwandten Terpenoide bekannt. Die meisten Terpene sind
+Naturstoffe, hauptsächlich pflanzlicher und seltener
+tierischer Herkunft.
+Terpenoide sind eine Stoffgruppe an Naturstoffen oder
+verwandten Verbindungen, die sich strukturell vom Isopren
+ableiten. Von den ähnlichen Terpenen unterscheiden sie sich
+darin, dass sie funktionelle Gruppen enthalten, während es
+sich bei Terpenen um reine Kohlenwasserstoffe handelt.
+
+## Testbenzin (Terpentinersatz)
+
+Als preiswertere Alternative (Terpentinersatz) wird heute häufig Testbenzin verwendet.
+Testbenzine enthalten flüchtige Organische Verbindungen
+(VOC) mit mittlerer Flüchtigkeit. Der Name Testbenzin
+bezieht sich darauf, dass das Benzin für einen bestimmten
+Bereich (Flammpunkt, Siedebereich) getestet ist.
+
+## Universalverdünner
+
+Bestandteile sind organische Lösungsmittel wie Ketone, Ester, Alkohole und andere Kohlenwasserstoffe.
+Sie unterscheiden sich von den speziellen Nitroverdünnungen dadurch, daß sie im wesentlichen aus Testbenzin bestehen.
+
+In der Regel teurer als ein speziell für ein Anstrichmittel
+eingestellter Verdünner, da er mehr verschiedene Löser und
+Verdünner enthalten muss.
+
+---
+
+Orangenschalenöl
+Preislich liegt O. etwa beim doppelten bis vierfachen (je
+nach Anbieter) von Balsamterpentin. Dafür ist es sparsamer
+in der Anwendung; beispielsweise reicht zum Herstellen von
+Halböl bereits ein Zusatz von 25 - 30 %
+
+# Wasser
+
+Lösemittel für:
+Leim-, Tempera-, Kasein-, Dispersions-Farben und -Lacke.
+Emulsionsfarben, Kalkfarben, Slikatfarben, Slikonemulsionsfarben.
+
+# N-Methyl-2-pyrrolidon
+
+\chemfig{
+           % 1
+    -[:336]N% 2
+     -[:30]% 3
+    -[:318]% 4
+    -[:246]% 5
+    -[:174]% 6
+              (
+        -[:102]\phantom{N}% -> 2
+              )
+    =[:228]O% 7
+}
+
+NMP wird wegen seiner thermischen Stabilität und hohen
+Polarität oft als Lösungsmittel verwendet. Es eignet sich
+als Lösungsmittel für Polymere wie Acrylate, Epoxide,
+Polyurethane, Polyvinylchlorid, Polyimide, Polyamidimid und
+für zahlreiche organische Synthesen.[12] Weitere wichtige
+Anwendungen umfassen die Lackentfernung und die Herstellung
+von Polyurethan-Schaum (PU-Schaum).
+
+---
+
+Most photoluminescent events, in which a chemical substrate absorbs and then
+re-emits a photon of light, are fast, in the order of 10 nanoseconds. Light is
+absorbed and emitted at these fast time scales in cases where the energy of the
+photons involved matches the available energy states and allowed transitions of
+the substrate. In the special case of phosphorescence, the absorbed photon
+energy undergoes an unusual intersystem crossing into an energy state of higher
+spin multiplicity (see term symbol), usually a triplet state. As a result, the
+energy can become trapped in the triplet state with only "forbidden"
+transitions available to return to the lower energy state. These transitions,
+although "forbidden", will still occur in quantum mechanics but are kinetically
+unfavored and thus progress at significantly slower time scales. Most
+phosphorescent compounds are still relatively fast emitters, with triplet
+lifetimes on the order of milliseconds. However, some compounds have triplet
+lifetimes up to minutes or even hours, allowing these substances to effectively
+store light energy in the form of very slowly degrading excited electron
+states. If the phosphorescent quantum yield is high, these substances will
+release significant amounts of light over long time scales, creating so-called
+"glow-in-the-dark" materials.
+
+A singlet state is a molecular electronic state such that all electron spins
+are paired. That is, the spin of the excited electron is still paired with the
+ground state electron (a pair of electrons in the same energy level must have
+opposite spins, per the Pauli exclusion principle). In a triplet state the
+excited electron is no longer paired with the ground state electron; that is,
+they are parallel (same spin).
+
+Fluorescence occurs when an orbital electron of a molecule, atom, or
+nanostructure, relaxes to its ground state by emitting a photon from an excited
+singlet state.
+
+---
+
+In equilibrium, the **electrochemical potential** [J/mol] will be constant everywhere
+for each species (it may have differendt value for different species).
