@@ -10,7 +10,7 @@ Sulfat \ce{SO4^2-}
 Nitrit \ce{NO2-}  
 Nitrat \ce{NO3-}
 
-\begin{description}[\compact]
+\begin{description}
 \item[isotopes] meaning "same place"
 \item[allotropes] Different structural modifications
 of an element.
@@ -407,11 +407,13 @@ Electronegativity:
 
 \ce{H} 2.1
 
+```
 \ce{B} 2.0\quadd
 \ce{C} 2.5\quadd
 \ce{N} 3.0\quadd
 \ce{O} 3.5\quadd
 \ce{F} 4.0\quadd
+```
 
 # Molecules
 
@@ -879,17 +881,34 @@ Skala 0 bis 14.
 \ce{2H2O + Ca -> Ca^{2+} + 2OH- + H2}  
 \ce{2H2O + 2F2 -> 4F- + 4H+ + O2}
 
-\Ka = $\frac{[\ce{A-}][\ce{H+}]}{[\ce{HA}]}$
+\ce{HA} + \ce{H2O} \ce{<=>} \ce{H3O+} + \ce{A-}
 
-\pKa = $-\log_{10}$ \Ka
+\Ka = $\frac{[\ce{A-}][\ce{H3O+}]}{[\ce{HA}]}$
+
+Je grösser \Ka ist, um so weiter liegt das Gleichgewicht
+auf der rechten Seite, um so stärker ist die Säure
+\ce{HA} in Ionen aufgesplaten, dissoziier.
+
+\pKa = $-\log_{10}$ $\frac{text{\Ka}}{text{mol/L}}$
 
 \pH = \pKa $+\log{[\ce{A-}]}{[\ce{HA}]}$
 
-\pKa:
-\ce{HOCl} 7.53
-\ce{HOClO} 2
-\ce{HOClO2} -1.2
-\ce{HOClO3} -10 (Perchloric acid)
+\pH = -lg( $\frac{\text{c(\ce{H3O+})}}{\text{mol/L}}$ )
+
+\pH = -lg( $\frac{\text{\Ka}}{\text{mol/L}}$ )
+
+\pKa:  
+\ce{HOCl} 7.53  
+\ce{HOClO} 2  
+\ce{HOClO2} -1.2  
+\ce{HOClO3} -10 (Perchloric acid)  
+Magensaft: 0.9 bis 2.3  
+Zitronensaft: 2  
+Regen: 4.1  
+"sauberer" Regen: 5.6  
+Wasser (chemisch rein) 7.0  
+Darmsaft:  8.3  
+Kalkwasser: (gesättigt) 12.3  
 
 A strong acid (HCl) or strong base (NaOH) is one
 that is fully dissociated in aqueous solution.
@@ -1264,49 +1283,6 @@ Natriumsalze von Fettsäuren.
 
 Schmierseife:
 Kaliumsalze von Fettsäuren.
-
-# Ester
-
-Säure + Alcohol -> Ester
-
-Esters contain carbonyl (C=O) and ether (O-C) dipoles arising from covalent bonding between
-electronegative oxygen atoms and electronically neutral carbon atoms. Because
-of the π-bonding
-arrangement of the carbonyl (C=O), this is the stronger of the two dipoles. The
-presence of these
-dipoles allows esters to act as hydrogen-bond acceptors. Thus esters can
-participate in hydrogen
-bonding with water and other protic solvents; the oxygen atoms can accept
-hydrogen bonds from
-water. As a result the water solubility of esters is greater than that of
-corresponding hydrocarbons.
-
-The presence of a carbonyl (C=O) and ether (O-C) dipole renders the "central"
-carbonyl carbon of
-an ester electron deficient; it is an electrophilic carbon atom.
-
--oic acid -> -oate
-
-\small
-\chemname{\chemfig{R-C(-[:-30]OH)=[:30]O}}{Carboxylic\\ acid}
-+
-\chemname{\chemfig{R′OH}}{Alcohol}
-->
-\chemname{\chemfig{R-C(-[:-30]OR′)=[:30]O}}{Ester}
-+
-\chemname{\chemfig{H_2O}}{Water}
-\normalsize
-
-Veresterung. Umgekehrt: Verseifung.
-
-formate (methyl methanoate):
-\chemfig{(=[2]O)-[7]O-[1]}
-
-acetate (methyl ethanoate):
-\chemfig{-[1](=[2]O)-[7]O-[1]}
-
-ethyl formate (ethyl methanoate):
-\chemfig{(=[2]O)-[7]O-[1]-[7]}
 
 # MO Theory
 
@@ -2516,7 +2492,7 @@ Thermoplaste oder Elastomere sein können.
 Polyisocyanate sind organische Verbindungen, die zwei oder mehrere Isocyanatgruppen (-\ce{N=C=O}) enthalten.
 
 Isocyanate sind die Ester der unbeständigen Isocyansäure.
-Methylisocyanat (\ce{CH3–N=C=O}) ist der einfachste Ester der Isocyansäure.
+Methylisocyanat `(\ce{CH3–N=C=O})` ist der einfachste Ester der Isocyansäure.
 
 Isocyansäure: \ce{HN=C=O}.
 
@@ -3188,6 +3164,47 @@ abbaubar und hat ein geringes Potenzial für die Bioakkumulation.
 # Ester 
 
 Alkohol (oder Phenol) + Säure
+
+Säure + Alcohol -> Ester
+
+Esters contain carbonyl (C=O) and ether (O-C) dipoles arising from covalent bonding between
+electronegative oxygen atoms and electronically neutral carbon atoms. Because
+of the π-bonding
+arrangement of the carbonyl (C=O), this is the stronger of the two dipoles. The
+presence of these
+dipoles allows esters to act as hydrogen-bond acceptors. Thus esters can
+participate in hydrogen
+bonding with water and other protic solvents; the oxygen atoms can accept
+hydrogen bonds from
+water. As a result the water solubility of esters is greater than that of
+corresponding hydrocarbons.
+
+The presence of a carbonyl (C=O) and ether (O-C) dipole renders the "central"
+carbonyl carbon of
+an ester electron deficient; it is an electrophilic carbon atom.
+
+-oic acid -> -oate
+
+\small
+\chemname{\chemfig{R-C(-[:-30]OH)=[:30]O}}{Carboxylic\\ acid}
++
+\chemname{\chemfig{R′OH}}{Alcohol}
+->
+\chemname{\chemfig{R-C(-[:-30]OR′)=[:30]O}}{Ester}
++
+\chemname{\chemfig{H_2O}}{Water}
+\normalsize
+
+Veresterung. Umgekehrt: Verseifung.
+
+formate (methyl methanoate):
+\chemfig{(=[2]O)-[7]O-[1]}
+
+acetate (methyl ethanoate):
+\chemfig{-[1](=[2]O)-[7]O-[1]}
+
+ethyl formate (ethyl methanoate):
+\chemfig{(=[2]O)-[7]O-[1]-[7]}
 
 ## Glykoletherester
 
